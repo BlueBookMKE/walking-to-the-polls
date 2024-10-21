@@ -1,0 +1,357 @@
+ward_no,wardstring
+1,Ward 1 / 0% / 25% / 5% / 71% / Firehouse Station 38
+2,Ward 2 / 0% / 87% / 13% / 0% / Greater Holy Temple Christian Academy
+3,Ward 3 / 0% / 0% / 0% / 100% / Greater Holy Temple Christian Academy
+4,Ward 4 / 0% / 22% / 37% / 41% / Spirit Life Church
+5,Ward 5 / 0% / 0% / 0% / 100% / Greater Holy Temple Christian Academy
+6,Ward 6 / 5% / 28% / 56% / 10% / Goodrich School
+7,Ward 7 / 5% / 48% / 29% / 18% / Goodrich School
+8,Ward 8 / 0% / 22% / 18% / 60% / Vincent High School
+9,Ward 9 / 1% / 20% / 23% / 57% / Stuart School
+10,Ward 10 / 5% / 22% / 29% / 44% / Stuart School
+11,Ward 11 / 20% / 77% / 3% / 0% / Milwaukee School of Sign Language School
+12,Ward 12 / 0% / 16% / 20% / 64% / Milwaukee School of Sign Language School
+13,Ward 13 / 12% / 62% / 22% / 5% / Clara Barton School
+14,Ward 14 / 0% / 36% / 56% / 8% / Thoreau School
+15,Ward 15 / 2% / 38% / 39% / 21% / Thoreau School
+16,Ward 16 / 1% / 15% / 32% / 52% / Green Tree Preparatory Academy
+17,Ward 17 / 0% / 4% / 15% / 80% / Green Tree Preparatory Academy
+18,Ward 18 / 0% / 0% / 14% / 86% / Milwaukee Police Safety Academy
+19,Ward 19 / 0% / 2% / 53% / 45% / Milwaukee Police Safety Academy
+20,Ward 20 / 10% / 47% / 39% / 4% / Thurston Woods School
+21,Ward 21 / 32% / 58% / 10% / 0% / Thurston Woods School
+22,Ward 22 / 0% / 36% / 47% / 16% / New Beginnings
+23,Ward 23 / 0% / 1% / 0% / 99% / New Beginnings
+24,Ward 24 / 0% / 3% / 65% / 32% / Kluge School
+25,Ward 25 / 18% / 57% / 25% / 0% / Kluge School
+26,Ward 26 / 0% / 56% / 32% / 12% / Kluge School
+27,Ward 27 / 4% / 58% / 35% / 4% / Madison High School
+28,Ward 28 / 0% / 0% / 28% / 72% / Madison High School
+29,Ward 29 / 0% / 0% / 17% / 83% / Madison High School
+30,Ward 30 / 11% / 58% / 19% / 12% / Bryant School
+31,Ward 31 / 0% / 8% / 57% / 35% / Bryant School
+32,Ward 32 / 0% / 5% / 27% / 68% / Maple Tree School
+33,Ward 33 / 1% / 15% / 23% / 60% / River Trail School
+34,Ward 34 / 0% / 0% / 45% / 55% / Parkview School
+35,Ward 35 / 4% / 30% / 52% / 14% / Parkview School
+36,Ward 36 / 10% / 56% / 14% / 20% / Engelburg School
+37,Ward 37 / 0% / 26% / 41% / 33% / Engelburg School
+38,Ward 38 / 8% / 43% / 48% / 2% / Engelburg School
+39,Ward 39 / 9% / 62% / 29% / 0% / Grantosa Drive School
+40,Ward 40 / 23% / 37% / 41% / 0% / Seventy-Six Street Building
+41,Ward 41 / 11% / 47% / 32% / 10% / Lancaster School
+42,Ward 42 / 9% / 49% / 38% / 5% / Byron Kilbourn School
+43,Ward 43 / 1% / 45% / 38% / 17% / Lancaster School
+44,Ward 44 / 21% / 46% / 32% / 1% / Silver Spring Neighborhood Center
+45,Ward 45 / 8% / 62% / 30% / 0% / Hampton School
+46,Ward 46 / 0% / 37% / 53% / 10% / Hampton School
+47,Ward 47 / 6% / 66% / 28% / 0% / McGovern Park Senior Center
+48,Ward 48 / 3% / 30% / 54% / 13% / Barack Obama School of CTE
+49,Ward 49 / 0% / 23% / 49% / 29% / McGovern Park Senior Center
+50,Ward 50 / 7% / 27% / 55% / 11% / Villard Square Branch
+51,Ward 51 / 14% / 46% / 38% / 1% / Villard Square Branch
+52,Ward 52 / 0% / 2% / 36% / 62% / Marvin Pratt School
+53,Ward 53 / 26% / 17% / 42% / 15% / Marvin Pratt School
+54,Ward 54 / 5% / 71% / 24% / 0% / Milwaukee Excellence Charter
+55,Ward 55 / 0% / 6% / 21% / 73% / Rufus King High School
+56,Ward 56 / 13% / 56% / 19% / 12% / Rufus King High School
+57,Ward 57 / 26% / 44% / 31% / 0% / Atkinson Library
+58,Ward 58 / 48% / 52% / 0% / 0% / New Hope Missionary Baptist Church
+59,Ward 59 / 0% / 29% / 60% / 12% / New Hope Missionary Baptist Church
+60,Ward 60 / 0% / 4% / 23% / 73% / Banner Prep / Asata High School
+61,Ward 61 / 0% / 19% / 38% / 43% / Samuel Clemens School
+62,Ward 62 / 16% / 53% / 31% / 0% / Samuel Clemens School
+63,Ward 63 / 4% / 72% / 24% / 0% / Central City CyberSchool
+64,Ward 64 / 0% / 26% / 57% / 17% / Central City CyberSchool
+65,Ward 65 / 11% / 51% / 39% / 0% / Congress School
+66,Ward 66 / 10% / 47% / 35% / 8% / Congress School
+67,Ward 67 / 21% / 65% / 14% / 0% / Marshall High School
+68,Ward 68 / 0% / 29% / 44% / 27% / Marshall High School
+69,Ward 69 / 0% / 19% / 53% / 28% / Marshall High School
+70,Ward 70 / 26% / 63% / 11% / 0% / Indigenous Park Pavilion
+71,Ward 71 / 0% / 21% / 51% / 28% / Milwaukee Environmental Sciences School
+72,Ward 72 / 0% / 0% / 35% / 65% / Milwaukee German Immersion School
+73,Ward 73 / 3% / 43% / 38% / 16% / Craig Montessori School
+74,Ward 74 / 0% / 28% / 58% / 15% / Craig Montessori School
+75,Ward 75 / 15% / 49% / 30% / 6% / Emerson School
+76,Ward 76 / 9% / 36% / 41% / 14% / Emerson School
+77,Ward 77 / 0% / 16% / 18% / 66% / Ninety - Fifth Street School
+78,Ward 78 / 24% / 73% / 3% / 0% / Ninety - Fifth Street School
+79,Ward 79 / 0% / 0% / 11% / 89% / Cooper Park Pavilion
+80,Ward 80 / 0% / 23% / 46% / 31% / Milwaukee School of Languages
+81,Ward 81 / 4% / 66% / 30% / 0% / Milwaukee School of Languages
+82,Ward 82 / 66% / 34% / 0% / 0% / Firehouse Station 22
+83,Ward 83 / 17% / 66% / 17% / 0% / Cooper Park Pavilion
+84,Ward 84 / 2% / 53% / 40% / 5% / Boys & Girls Club - Mary Ryan
+85,Ward 85 / 21% / 62% / 16% / 0% / Eighty-First Street School
+86,Ward 86 / 9% / 66% / 25% / 0% / Milwaukee German Immersion School
+87,Ward 87 / 4% / 77% / 19% / 0% / Milwaukee German Immersion School
+88,Ward 88 / 4% / 54% / 23% / 19% / Dineen Park Pavilion
+89,Ward 89 / 13% / 55% / 32% / 0% / Enderis Playground Fieldhouse
+90,Ward 90 / 10% / 67% / 23% / 0% / Enderis Playground Fieldhouse
+91,Ward 91 / 0% / 0% / 8% / 92% / Center Street Park Pavilion
+92,Ward 92 / 4% / 61% / 35% / 0% / Sherman School
+93,Ward 93 / 0% / 7% / 41% / 52% / Sherman School
+94,Ward 94 / 11% / 49% / 39% / 1% / Fifty - Third Street School
+95,Ward 95 / 32% / 68% / 0% / 0% / Albright United Methodist Church
+96,Ward 96 / 16% / 59% / 25% / 0% / Fifty - Third Street School
+97,Ward 97 / 25% / 75% / 0% / 0% / Embassy Center MKE (formerly named Parklawn Assembly of God Church)
+98,Ward 98 / 0% / 31% / 46% / 23% / DPW Field Headquarters
+99,Ward 99 / 7% / 64% / 29% / 0% / Embassy Center MKE (formerly named Parklawn Assembly of God Church)
+100,Ward 100 / 18% / 67% / 15% / 0% / Boys & Girls Club - Mary Ryan
+101,Ward 101 / 13% / 71% / 15% / 0% / Keenan Health Center
+102,Ward 102 / 0% / 13% / 46% / 41% / Children's Outing Association
+103,Ward 103 / 0% / 7% / 31% / 62% / Ben Franklin School
+104,Ward 104 / 19% / 67% / 15% / 0% / Ben Franklin School
+105,Ward 105 / 8% / 64% / 24% / 3% / Ben Franklin School
+106,Ward 106 / 18% / 63% / 19% / 0% / Children's Outing Association
+107,Ward 107 / 24% / 67% / 9% / 0% / Children's Outing Association
+108,Ward 108 / 38% / 39% / 24% / 0% / Metropolitan Baptist Church
+109,Ward 109 / 23% / 57% / 19% / 1% / Douglas Complex School
+110,Ward 110 / 32% / 68% / 0% / 0% / St Mark's Quality of Life Center II
+111,Ward 111 / 31% / 66% / 3% / 0% / St Mark's Quality of Life Center II
+112,Ward 112 / 0% / 1% / 58% / 41% / Douglas Complex School
+113,Ward 113 / 26% / 68% / 5% / 0% / LaFollette School
+114,Ward 114 / 30% / 67% / 3% / 0% / Green Bay Ave School
+115,Ward 115 / 0% / 23% / 58% / 19% / Martin Luther King Jr School
+116,Ward 116 / 14% / 74% / 12% / 0% / Martin Luther King Jr School
+117,Ward 117 / 21% / 76% / 3% / 0% / Clinton Rose Senior Center
+118,Ward 118 / 2% / 67% / 31% / 0% / Clinton Rose Senior Center
+119,Ward 119 / 18% / 73% / 9% / 0% / Fratney School
+120,Ward 120 / 0% / 0% / 4% / 96% / Fratney School
+121,Ward 121 / 3% / 25% / 35% / 37% / Gordon Park Pavilion
+122,Ward 122 / 8% / 7% / 35% / 50% / Locust Court Apartments
+123,Ward 123 / 0% / 51% / 46% / 2% / UWM Lubar Entrepreneurship Center
+124,Ward 124 / 18% / 62% / 20% / 0% / Riverside High School
+125,Ward 125 / 0% / 1% / 77% / 23% / Riverside High School
+126,Ward 126 / 0% / 53% / 47% / 0% / UWM Lubar Entrepreneurship Center
+127,Ward 127 / 48% / 47% / 6% / 0% / Plymouth Church
+128,Ward 128 / 0% / 33% / 39% / 28% / Maryland Av Montessori School
+129,Ward 129 / 29% / 70% / 2% / 0% / Maryland Av Montessori School
+130,Ward 130 / 2% / 93% / 6% / 0% / Maryland Av Montessori School
+131,Ward 131 / 45% / 55% / 0% / 0% / East Library
+132,Ward 132 / 25% / 59% / 16% / 0% / Urban Ecology Center
+133,Ward 133 / 2% / 45% / 37% / 16% / Gordon Park Pavilion
+134,Ward 134 / 32% / 65% / 3% / 0% / Riverwest Elementary School
+135,Ward 135 / 15% / 55% / 29% / 0% / Oliver Wendell Holmes School
+136,Ward 136 / 27% / 73% / 0% / 0% / Holton Terrace Apartments
+137,Ward 137 / 0% / 45% / 55% / 0% / Northcott Neighborhood House
+138,Ward 138 / 38% / 55% / 7% / 0% / Northcott Neighborhood House
+139,Ward 139 / 27% / 70% / 3% / 0% / North Division High School
+140,Ward 140 / 0% / 33% / 28% / 39% / North Division High School
+141,Ward 141 / 35% / 65% / 0% / 0% / Frank P. Zeidler Municipal Building
+142,Ward 142 / 25% / 71% / 3% / 0% / Milwaukee Rescue Mission
+143,Ward 143 / 28% / 63% / 9% / 0% / Gwen T Jackson School
+144,Ward 144 / 0% / 20% / 52% / 28% / Milwaukee Rescue Mission
+145,Ward 145 / 12% / 27% / 35% / 26% / Frances Starms Disc Learning Ctr School
+146,Ward 146 / 22% / 68% / 10% / 0% / West Side Academy I School
+147,Ward 147 / 32% / 67% / 1% / 0% / Center Street Library
+148,Ward 148 / 13% / 27% / 33% / 27% / Ralph H. Metcalfe School
+149,Ward 149 / 0% / 29% / 45% / 26% / Washington High School
+150,Ward 150 / 10% / 57% / 32% / 0% / Washington High School
+151,Ward 151 / 0% / 25% / 55% / 20% / Washington Park Library
+152,Ward 152 / 14% / 58% / 26% / 1% / Washington Park Library
+153,Ward 153 / 52% / 48% / 0% / 0% / Hi-Mount Blvd School
+154,Ward 154 / 0% / 48% / 50% / 2% / Hi-Mount Blvd School
+155,Ward 155 / 28% / 53% / 19% / 0% / Washington High School
+156,Ward 156 / 0% / 27% / 32% / 42% / Frank P. Zeidler Municipal Building
+157,Ward 157 / 0% / 34% / 59% / 8% / Boys & Girls Club - Mary Ryan
+158,Ward 158 / 20% / 80% / 0% / 0% / Milwaukee School of Engineering (MSOE) - Diercks Hall
+159,Ward 159 / 0% / 41% / 58% / 1% / Sherman School
+160,Ward 160 / 11% / 42% / 47% / 0% / Center Street Park Pavilion
+161,Ward 161 / 2% / 38% / 48% / 12% / Milwaukee French Immersion School
+162,Ward 162 / 13% / 82% / 5% / 0% / Cass Street School
+163,Ward 163 / 6% / 50% / 42% / 2% / Milwaukee French Immersion School
+164,Ward 164 / 18% / 48% / 25% / 10% / Neeskara School
+165,Ward 165 / 0% / 5% / 48% / 47% / Washington Park Senior Center
+166,Ward 166 / 5% / 76% / 19% / 0% / West Side Academy I School
+167,Ward 167 / 0% / 0% / 44% / 56% / Cherry Court Apartments
+168,Ward 168 / 29% / 63% / 8% / 0% / Cherry Court Apartments
+169,Ward 169 / 13% / 49% / 37% / 1% / Frances Starms Disc Learning Ctr School
+170,Ward 170 / 0% / 21% / 50% / 29% / Highland Gardens Apartments
+171,Ward 171 / 54% / 43% / 4% / 0% / Housing Authority Public Safety Building
+172,Ward 172 / 0% / 69% / 31% / 0% / Hillside Family Resource Center
+173,Ward 173 / 13% / 56% / 18% / 13% / Carver Academy of Math & Science School
+174,Ward 174 / 18% / 79% / 3% / 0% / Firehouse Station 6
+175,Ward 175 / 3% / 91% / 7% / 0% / Riverview Apartments
+176,Ward 176 / 9% / 57% / 30% / 4% / Charles Allis Art Museum
+177,Ward 177 / 27% / 61% / 11% / 0% / Charles Allis Art Museum
+178,Ward 178 / 30% / 70% / 0% / 0% / Arlington Court Apartments
+179,Ward 179 / 33% / 67% / 0% / 0% / Cass Street School
+180,Ward 180 / 31% / 19% / 50% / 0% / Convent Hill Apartments
+181,Ward 181 / 0% / 64% / 36% / 0% / Milwaukee School of Engineering (MSOE) - Diercks Hall
+182,Ward 182 / 12% / 45% / 43% / 0% / Milwaukee Public Market
+183,Ward 183 / 50% / 20% / 23% / 7% / Central Library - Centennial Hall
+184,Ward 184 / 23% / 19% / 57% / 0% / Central Library - Centennial Hall
+185,Ward 185 / 0% / 17% / 58% / 25% / Central Library - Centennial Hall
+186,Ward 186 / 13% / 87% / 0% / 0% / Wisconsin Conservatory of Lifelong Learning
+187,Ward 187 / 54% / 46% / 0% / 0% / Marquette Alumni Memorial Union
+188,Ward 188 / 47% / 41% / 12% / 0% / Highland Gardens Apartments
+189,Ward 189 / 22% / 50% / 27% / 1% / James E Groppi (27th Street School)
+190,Ward 190 / 0% / 9% / 91% / 0% / Marquette Alumni Memorial Union
+191,Ward 191 / 45% / 53% / 2% / 0% / Milwaukee Academy of Chinese Language
+192,Ward 192 / 19% / 63% / 18% / 0% / Milwaukee Academy of Chinese Language
+193,Ward 193 / 19% / 44% / 37% / 0% / Merrill Park Apartments
+194,Ward 194 / 4% / 14% / 66% / 16% / College Court Apartments
+195,Ward 195 / 7% / 53% / 39% / 0% / College Court Apartments
+196,Ward 196 / 15% / 65% / 19% / 0% / James E Groppi (27th Street School)
+197,Ward 197 / 2% / 51% / 1% / 47% / Story School
+198,Ward 198 / 0% / 0% / 37% / 63% / MPS Administration Building
+199,Ward 199 / 18% / 66% / 15% / 0% / MPS Administration Building
+200,Ward 200 / 20% / 70% / 10% / 0% / Hawley School
+201,Ward 201 / 0% / 33% / 30% / 37% / Wisconsin Humane Society
+202,Ward 202 / 17% / 73% / 11% / 0% / MacDowell Montessori School
+203,Ward 203 / 0% / 9% / 39% / 53% / MacDowell Montessori School
+204,Ward 204 / 14% / 64% / 21% / 0% / Dyer Playground Fieldhouse
+205,Ward 205 / 7% / 40% / 53% / 0% / Cannon Park Pavilion
+206,Ward 206 / 17% / 44% / 24% / 14% / Cannon Park Pavilion
+207,Ward 207 / 0% / 36% / 42% / 21% / Luther Burbank School
+208,Ward 208 / 32% / 63% / 5% / 0% / Luther Burbank School
+209,Ward 209 / 0% / 0% / 65% / 34% / Wisconsin Humane Society
+210,Ward 210 / 5% / 49% / 39% / 6% / Doerfler School
+211,Ward 211 / 0% / 22% / 78% / 0% / Doerfler School
+212,Ward 212 / 1% / 62% / 33% / 4% / Burnham Playfield
+213,Ward 213 / 17% / 70% / 14% / 0% / Burnham Playfield
+214,Ward 214 / 24% / 73% / 3% / 0% / Doerfler School
+215,Ward 215 / 52% / 48% / 0% / 0% / Doerfler School
+216,Ward 216 / 0% / 6% / 64% / 29% / OASIS Senior Center
+217,Ward 217 / 23% / 77% / 0% / 0% / OASIS Senior Center
+218,Ward 218 / 46% / 45% / 8% / 0% / Boys & Girls Club - Don & Sallie Davis
+219,Ward 219 / 1% / 68% / 31% / 0% / Boys & Girls Club - Don & Sallie Davis
+220,Ward 220 / 12% / 51% / 35% / 2% / Longfellow School
+221,Ward 221 / 49% / 51% / 0% / 0% / Clarke Square Park Pavilion
+222,Ward 222 / 20% / 52% / 27% / 1% / Mitchell Court Apartments
+223,Ward 223 / 12% / 71% / 3% / 14% / Bradley Tech High School
+224,Ward 224 / 0% / 38% / 62% / 0% / Longfellow School
+225,Ward 225 / 29% / 64% / 8% / 0% / Becher Terrace Apartments
+226,Ward 226 / 37% / 63% / 0% / 0% / South Division High School
+227,Ward 227 / 0% / 92% / 8% / 0% / South Division High School
+228,Ward 228 / 0% / 35% / 59% / 6% / MATC Education Center at Walker's Square
+229,Ward 229 / 39% / 33% / 28% / 0% / Bradley Tech High School
+230,Ward 230 / 4% / 22% / 45% / 29% / Bradley Tech High School
+231,Ward 231 / 0% / 48% / 52% / 0% / MATC Education Center at Walker's Square
+232,Ward 232 / 45% / 55% / 0% / 0% / Allen-Field Elementary School
+233,Ward 233 / 47% / 53% / 0% / 0% / Hayes Bilingual School
+234,Ward 234 / 0% / 75% / 25% / 0% / Hayes Bilingual School
+235,Ward 235 / 0% / 47% / 52% / 0% / Allen-Field Elementary School
+236,Ward 236 / 0% / 3% / 31% / 65% / Beulah Brinton Community Center
+237,Ward 237 / 31% / 62% / 7% / 0% / Beulah Brinton Community Center
+238,Ward 238 / 2% / 33% / 63% / 2% / South Shore Park Pavilion
+239,Ward 239 / 10% / 51% / 39% / 0% / South Shore Park Pavilion
+240,Ward 240 / 1% / 61% / 34% / 3% / Humboldt Park Pavilion
+241,Ward 241 / 22% / 40% / 38% / 0% / Lincoln Court Apartments
+242,Ward 242 / 19% / 73% / 8% / 0% / Kosciuszko Community Center
+243,Ward 243 / 0% / 39% / 50% / 11% / Clement J. Zablocki School
+244,Ward 244 / 0% / 51% / 49% / 1% / Firehouse Station 31
+245,Ward 245 / 1% / 82% / 17% / 0% / Kosciuszko Community Center
+246,Ward 246 / 11% / 52% / 36% / 0% / Becher Terrace Apartments
+247,Ward 247 / 57% / 41% / 1% / 0% / Lincoln Avenue School
+248,Ward 248 / 5% / 42% / 39% / 14% / U.S. Grant School
+249,Ward 249 / 0% / 19% / 52% / 29% / U.S. Grant School
+250,Ward 250 / 13% / 41% / 46% / 0% / Zablocki Library
+251,Ward 251 / 30% / 70% / 0% / 0% / Manitoba School
+252,Ward 252 / 0% / 38% / 57% / 5% / Oklahoma Ave Lutheran Church
+253,Ward 253 / 0% / 2% / 31% / 67% / Milwaukee Spanish Immersion School
+254,Ward 254 / 3% / 63% / 34% / 0% / Milwaukee Spanish Immersion School
+255,Ward 255 / 1% / 38% / 59% / 3% / Fairview School
+256,Ward 256 / 0% / 9% / 45% / 46% / Fairview School
+257,Ward 257 / 2% / 87% / 11% / 0% / Fairview School
+258,Ward 258 / 1% / 36% / 34% / 29% / Wedgewood Park International School
+259,Ward 259 / 9% / 67% / 24% / 0% / The Bridge
+260,Ward 260 / 14% / 51% / 31% / 4% / The Bridge
+261,Ward 261 / 0% / 18% / 32% / 50% / Milwaukee Spanish Immersion School II
+262,Ward 262 / 1% / 50% / 35% / 13% / Alcott Elementary School
+263,Ward 263 / 12% / 63% / 25% / 0% / Milwaukee Spanish Immersion School II
+264,Ward 264 / 11% / 61% / 28% / 0% / Milwaukee Spanish Immersion School II
+265,Ward 265 / 6% / 57% / 31% / 6% / Redeemer Evangelical Free Church
+266,Ward 266 / 0% / 28% / 43% / 28% / Redeemer Evangelical Free Church
+267,Ward 267 / 6% / 41% / 34% / 19% / Wedgewood Park International School
+268,Ward 268 / 0% / 0% / 30% / 70% / Whitman School
+269,Ward 269 / 19% / 45% / 36% / 0% / Oklahoma Ave Lutheran Church
+270,Ward 270 / 10% / 36% / 27% / 27% / Audubon School
+271,Ward 271 / 0% / 26% / 54% / 19% / Morgandale School
+272,Ward 272 / 0% / 7% / 69% / 24% / Pulaski High School
+273,Ward 273 / 0% / 89% / 11% / 0% / Pulaski Indoor Swimming Pool
+274,Ward 274 / 2% / 97% / 1% / 0% / Holt Playground Fieldhouse
+275,Ward 275 / 54% / 46% / 0% / 0% / Holt Playground Fieldhouse
+276,Ward 276 / 25% / 55% / 14% / 7% / Morgandale School
+277,Ward 277 / 22% / 73% / 5% / 0% / Ohio Playground Fieldhouse
+278,Ward 278 / 32% / 67% / 1% / 0% / Clement J. Zablocki School
+279,Ward 279 / 25% / 73% / 1% / 0% / Clement J. Zablocki School
+280,Ward 280 / 40% / 56% / 4% / 0% / Ohio Playground Fieldhouse
+281,Ward 281 / 30% / 39% / 31% / 0% / Saveland Park Pavilion
+282,Ward 282 / 4% / 45% / 44% / 7% / Tippecanoe Library
+283,Ward 283 / 0% / 0% / 0% / 100% / Parkside School of the Arts
+284,Ward 284 / 12% / 63% / 26% / 0% / Clement Avenue School
+285,Ward 285 / 0% / 43% / 46% / 11% / Humboldt Park Pavilion
+286,Ward 286 / 39% / 55% / 6% / 0% / Unity's Fellowship Hall
+287,Ward 287 / 26% / 68% / 3% / 3% / Fernwood Montessori School
+288,Ward 288 / 10% / 71% / 17% / 2% / Fernwood Montessori School
+289,Ward 289 / 2% / 53% / 41% / 4% / Clement Avenue School
+290,Ward 290 / 0% / 0% / 25% / 74% / Clement Avenue School
+291,Ward 291 / 4% / 64% / 21% / 11% / Burdick School
+292,Ward 292 / 0% / 0% / 14% / 86% / Water Tower
+293,Ward 293 / 7% / 14% / 42% / 36% / Water Tower
+294,Ward 294 / 31% / 10% / 14% / 46% / Wilson Commons - Chopin Senior Living Wilson Commons - Chopin Senior Living
+295,Ward 295 / 3% / 16% / 46% / 36% / Lowell School
+296,Ward 296 / 4% / 41% / 46% / 9% / Ronald W. Reagan High School
+297,Ward 297 / 0% / 0% / 30% / 70% / Ronald W. Reagan High School
+298,Ward 298 / 0% / 0% / 0% / 100% / Cooper School
+299,Ward 299 / 16% / 62% / 22% / 0% / Cooper School
+300,Ward 300 / 12% / 52% / 29% / 7% / Garland School
+301,Ward 301 / 0% / 4% / 39% / 57% / Garland School
+302,Ward 302 / 12% / 39% / 49% / 0% / Victory School
+303,Ward 303 / 5% / 22% / 25% / 47% / Holler Park Pavilion
+304,Ward 304 / 7% / 51% / 33% / 9% / Burdick School
+305,Ward 305 / 0% / 58% / 42% / 0% / Clarke Square Park Pavilion
+306,Ward 306 / 63% / 37% / 0% / 0% / Clarke Square Park Pavilion
+307,Ward 307 / 1% / 63% / 36% / 0% / Pulaski Indoor Swimming Pool
+308,Ward 308 / 0% / 25% / 53% / 22% / Pulaski Indoor Swimming Pool
+309,Ward 309 / 36% / 57% / 7% / 0% / Firehouse Station 31
+310,Ward 310 / 0% / 6% / 66% / 28% / Parkside School of the Arts
+311,Ward 311 / 10% / 46% / 43% / 1% / Zablocki Library
+312,Ward 312 / 0% / 0% / 25% / 75% / Curtin School
+313,Ward 313 / 20% / 32% / 36% / 13% / IDEAL School
+314,Ward 314 / 0% / 0% / 0% / 100% / IDEAL School
+315,Ward 315 / 9% / 49% / 13% / 29% / Maple Tree School
+316,Ward 316 / Unpopulated
+317,Ward 317 / Unpopulated
+318,Ward 318 / 0% / 0% / 24% / 76% / Madison High School
+319,Ward 319 / 0% / 94% / 6% / 0% / Ninety - Fifth Street School
+320,Ward 320 / 0% / 100% / 0% / 0% / Ninety - Fifth Street School
+321,Ward 321 / 30% / 47% / 23% / 0% / Firehouse Station 22
+322,Ward 322 / 70% / 28% / 3% / 0% / Banner Prep / Asata High School
+323,Ward 323 / 0% / 0% / 65% / 35% / Boys & Girls Club - Mary Ryan
+324,Ward 324 / 0% / 0% / 16% / 84% / Boys & Girls Club - Mary Ryan
+325,Ward 325 / 0% / 0% / 100% / 0% / Washington High School
+326,Ward 326 / 0% / 22% / 78% / 0% / Hi-Mount Blvd School
+327,Ward 327 / Unpopulated
+328,Ward 328 / 37% / 48% / 16% / 0% / Milwaukee French Immersion School
+329,Ward 329 / 0% / 0% / 100% / 0% / Metropolitan Baptist Church
+330,Ward 330 / 23% / 77% / 0% / 0% / Milwaukee Rescue Mission
+331,Ward 331 / 31% / 69% / 0% / 0% / Holton Terrace Apartments
+332,Ward 332 / 3% / 97% / 0% / 0% / Gordon Park Pavilion
+333,Ward 333 / 0% / 0% / 0% / 100% / Cherry Court Apartments
+334,Ward 334 / 24% / 76% / 0% / 0% / James E Groppi (27th Street School)
+335,Ward 335 / 0% / 100% / 0% / 0% / Marquette Alumni Memorial Union
+336,Ward 336 / 0% / 48% / 52% / 0% / Milwaukee Academy of Chinese Language
+337,Ward 337 / Unpopulated
+338,Ward 338 / Unpopulated
+339,Ward 339 / 0% / 0% / 0% / 100% / Mitchell Court Apartments
+340,Ward 340 / Unpopulated
+341,Ward 341 / Unpopulated
+342,Ward 342 / 0% / 0% / 100% / 0% / Lincoln Court Apartments
+343,Ward 343 / 0% / 0% / 35% / 65% / The Bridge
+344,Ward 344 / 0% / 49% / 51% / 0% / Oklahoma Ave Lutheran Church
+345,Ward 345 / 11% / 41% / 48% / 0% / Manitoba School
+346,Ward 346 / 20% / 80% / 0% / 0% / Pulaski Indoor Swimming Pool
+347,Ward 347 / 10% / 88% / 3% / 0% / Parkside School of the Arts
+348,Ward 348 / 0% / 23% / 45% / 32% / Parkside School of the Arts
+349,Ward 349 / 9% / 62% / 28% / 1% / Whitman School
+350,Ward 350 / 0% / 0% / 100% / 0% / Zablocki Library
+351,Ward 351 / Unpopulated
+352,Ward 352 / Unpopulated
+353,Ward 353 / Unpopulated
+354,Ward 354 / Unpopulated
+355,Ward 355 / 0% / 0% / 0% / 100% / Parkside School of the Arts
+356,Ward 356 / 0% / 0% / 39% / 61% / Tippecanoe Library

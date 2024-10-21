@@ -1,0 +1,1398 @@
+ward_no,distance,units,pct,polling_place_name,voter_count
+1,0-5 min.,0,0,Firehouse Station 38,1447
+1,5-10 min.,421,24.77928193054738,Firehouse Station 38,1447
+1,10-15 min.,77,4.532077692760447,Firehouse Station 38,1447
+1,15+ min.,1201,70.68864037669216,Firehouse Station 38,1447
+2,0-5 min.,0,0,Greater Holy Temple Christian Academy,519
+2,5-10 min.,576,86.74698795180723,Greater Holy Temple Christian Academy,519
+2,10-15 min.,88,13.253012048192772,Greater Holy Temple Christian Academy,519
+2,15+ min.,0,0,Greater Holy Temple Christian Academy,519
+3,0-5 min.,0,0,Greater Holy Temple Christian Academy,972
+3,5-10 min.,0,0,Greater Holy Temple Christian Academy,972
+3,10-15 min.,0,0,Greater Holy Temple Christian Academy,972
+3,15+ min.,776,100,Greater Holy Temple Christian Academy,972
+4,0-5 min.,0,0,Spirit Life Church,1622
+4,5-10 min.,397,21.933701657458563,Spirit Life Church,1622
+4,10-15 min.,667,36.85082872928177,Spirit Life Church,1622
+4,15+ min.,746,41.21546961325967,Spirit Life Church,1622
+5,0-5 min.,0,0,Greater Holy Temple Christian Academy,848
+5,5-10 min.,0,0,Greater Holy Temple Christian Academy,848
+5,10-15 min.,0,0,Greater Holy Temple Christian Academy,848
+5,15+ min.,922,100,Greater Holy Temple Christian Academy,848
+6,0-5 min.,43,5.162064825930372,Goodrich School,1311
+6,5-10 min.,237,28.45138055222089,Goodrich School,1311
+6,10-15 min.,469,56.30252100840336,Goodrich School,1311
+6,15+ min.,84,10.084033613445378,Goodrich School,1311
+7,0-5 min.,30,5.2356020942408374,Goodrich School,651
+7,5-10 min.,275,47.99301919720768,Goodrich School,651
+7,10-15 min.,166,28.970331588132638,Goodrich School,651
+7,15+ min.,102,17.801047120418847,Goodrich School,651
+8,0-5 min.,0,0,Vincent High School,1387
+8,5-10 min.,247,21.80052956751986,Vincent High School,1387
+8,10-15 min.,206,18.181818181818183,Vincent High School,1387
+8,15+ min.,680,60.01765225066195,Vincent High School,1387
+9,0-5 min.,4,0.6700167504187605,Stuart School,806
+9,5-10 min.,117,19.597989949748744,Stuart School,806
+9,10-15 min.,135,22.613065326633166,Stuart School,806
+9,15+ min.,341,57.11892797319933,Stuart School,806
+10,0-5 min.,46,5.0884955752212395,Stuart School,1306
+10,5-10 min.,198,21.902654867256636,Stuart School,1306
+10,10-15 min.,258,28.539823008849556,Stuart School,1306
+10,15+ min.,402,44.469026548672566,Stuart School,1306
+11,0-5 min.,190,20.43010752688172,Milwaukee School of Sign Language School,1150
+11,5-10 min.,715,76.88172043010752,Milwaukee School of Sign Language School,1150
+11,10-15 min.,25,2.6881720430107525,Milwaukee School of Sign Language School,1150
+11,15+ min.,0,0,Milwaukee School of Sign Language School,1150
+12,0-5 min.,0,0,Milwaukee School of Sign Language School,959
+12,5-10 min.,113,16.448326055312958,Milwaukee School of Sign Language School,959
+12,10-15 min.,134,19.50509461426492,Milwaukee School of Sign Language School,959
+12,15+ min.,440,64.04657933042213,Milwaukee School of Sign Language School,959
+13,0-5 min.,49,11.63895486935867,Clara Barton School,570
+13,5-10 min.,259,61.520190023752974,Clara Barton School,570
+13,10-15 min.,93,22.090261282660332,Clara Barton School,570
+13,15+ min.,20,4.750593824228028,Clara Barton School,570
+14,0-5 min.,0,0,Thoreau School,1085
+14,5-10 min.,363,36.01190476190476,Thoreau School,1085
+14,10-15 min.,565,56.051587301587304,Thoreau School,1085
+14,15+ min.,80,7.936507936507936,Thoreau School,1085
+15,0-5 min.,10,1.9417475728155338,Thoreau School,834
+15,5-10 min.,196,38.05825242718446,Thoreau School,834
+15,10-15 min.,199,38.640776699029125,Thoreau School,834
+15,15+ min.,110,21.35922330097087,Thoreau School,834
+16,0-5 min.,7,0.5223880597014926,Green Tree Preparatory Academy,1510
+16,5-10 min.,198,14.776119402985074,Green Tree Preparatory Academy,1510
+16,10-15 min.,434,32.38805970149254,Green Tree Preparatory Academy,1510
+16,15+ min.,701,52.3134328358209,Green Tree Preparatory Academy,1510
+17,0-5 min.,0,0,Green Tree Preparatory Academy,682
+17,5-10 min.,20,4.301075268817205,Green Tree Preparatory Academy,682
+17,10-15 min.,72,15.483870967741936,Green Tree Preparatory Academy,682
+17,15+ min.,373,80.21505376344086,Green Tree Preparatory Academy,682
+18,0-5 min.,0,0,Milwaukee Police Safety Academy,934
+18,5-10 min.,0,0,Milwaukee Police Safety Academy,934
+18,10-15 min.,114,14.339622641509434,Milwaukee Police Safety Academy,934
+18,15+ min.,681,85.66037735849056,Milwaukee Police Safety Academy,934
+19,0-5 min.,0,0,Milwaukee Police Safety Academy,794
+19,5-10 min.,13,1.8232819074333801,Milwaukee Police Safety Academy,794
+19,10-15 min.,379,53.15568022440392,Milwaukee Police Safety Academy,794
+19,15+ min.,321,45.02103786816269,Milwaukee Police Safety Academy,794
+20,0-5 min.,97,10.010319917440661,Thurston Woods School,1103
+20,5-10 min.,451,46.542827657378744,Thurston Woods School,1103
+20,10-15 min.,382,39.42208462332301,Thurston Woods School,1103
+20,15+ min.,39,4.024767801857585,Thurston Woods School,1103
+21,0-5 min.,151,32.19616204690831,Thurston Woods School,506
+21,5-10 min.,270,57.56929637526652,Thurston Woods School,506
+21,10-15 min.,48,10.23454157782516,Thurston Woods School,506
+21,15+ min.,0,0,Thurston Woods School,506
+22,0-5 min.,0,0,New Beginnings,846
+22,5-10 min.,276,36.26806833114323,New Beginnings,846
+22,10-15 min.,360,47.306176084099874,New Beginnings,846
+22,15+ min.,125,16.4257555847569,New Beginnings,846
+23,0-5 min.,0,0,New Beginnings,656
+23,5-10 min.,2,1.1111111111111112,New Beginnings,656
+23,10-15 min.,0,0,New Beginnings,656
+23,15+ min.,178,98.88888888888889,New Beginnings,656
+24,0-5 min.,0,0,Kluge School,350
+24,5-10 min.,14,3.3333333333333335,Kluge School,350
+24,10-15 min.,272,64.76190476190476,Kluge School,350
+24,15+ min.,134,31.9047619047619,Kluge School,350
+25,0-5 min.,147,18.421052631578945,Kluge School,799
+25,5-10 min.,453,56.766917293233085,Kluge School,799
+25,10-15 min.,198,24.81203007518797,Kluge School,799
+25,15+ min.,0,0,Kluge School,799
+26,0-5 min.,0,0,Kluge School,463
+26,5-10 min.,230,56.372549019607845,Kluge School,463
+26,10-15 min.,130,31.862745098039213,Kluge School,463
+26,15+ min.,48,11.76470588235294,Kluge School,463
+27,0-5 min.,19,3.5381750465549344,Madison High School,712
+27,5-10 min.,309,57.54189944134078,Madison High School,712
+27,10-15 min.,190,35.38175046554935,Madison High School,712
+27,15+ min.,19,3.5381750465549344,Madison High School,712
+28,0-5 min.,0,0,Madison High School,547
+28,5-10 min.,0,0,Madison High School,547
+28,10-15 min.,162,27.882960413080895,Madison High School,547
+28,15+ min.,419,72.1170395869191,Madison High School,547
+29,0-5 min.,0,0,Madison High School,741
+29,5-10 min.,0,0,Madison High School,741
+29,10-15 min.,105,17.045454545454543,Madison High School,741
+29,15+ min.,511,82.95454545454545,Madison High School,741
+30,0-5 min.,68,10.59190031152648,Bryant School,662
+30,5-10 min.,375,58.41121495327103,Bryant School,662
+30,10-15 min.,120,18.69158878504673,Bryant School,662
+30,15+ min.,79,12.305295950155763,Bryant School,662
+31,0-5 min.,0,0,Bryant School,839
+31,5-10 min.,68,7.916181606519208,Bryant School,839
+31,10-15 min.,488,56.810244470314316,Bryant School,839
+31,15+ min.,303,35.273573923166474,Bryant School,839
+32,0-5 min.,0,0,Maple Tree School,1046
+32,5-10 min.,44,5.0113895216400905,Maple Tree School,1046
+32,10-15 min.,234,26.65148063781321,Maple Tree School,1046
+32,15+ min.,600,68.3371298405467,Maple Tree School,1046
+33,0-5 min.,21,1.416048550236008,River Trail School,2212
+33,5-10 min.,225,15.171948752528658,River Trail School,2212
+33,10-15 min.,343,23.12879298718813,River Trail School,2212
+33,15+ min.,894,60.2832097100472,River Trail School,2212
+34,0-5 min.,0,0,Parkview School,597
+34,5-10 min.,0,0,Parkview School,597
+34,10-15 min.,367,45.42079207920792,Parkview School,597
+34,15+ min.,441,54.579207920792086,Parkview School,597
+35,0-5 min.,51,3.9110429447852764,Parkview School,1549
+35,5-10 min.,397,30.44478527607362,Parkview School,1549
+35,10-15 min.,672,51.533742331288344,Parkview School,1549
+35,15+ min.,184,14.11042944785276,Parkview School,1549
+36,0-5 min.,73,10.38406827880512,Engelburg School,851
+36,5-10 min.,391,55.618776671408256,Engelburg School,851
+36,10-15 min.,98,13.940256045519202,Engelburg School,851
+36,15+ min.,141,20.056899004267425,Engelburg School,851
+37,0-5 min.,0,0,Engelburg School,878
+37,5-10 min.,276,26.26070409134158,Engelburg School,878
+37,10-15 min.,428,40.72312083729781,Engelburg School,878
+37,15+ min.,347,33.01617507136061,Engelburg School,878
+38,0-5 min.,49,7.814992025518341,Engelburg School,597
+38,5-10 min.,267,42.58373205741627,Engelburg School,597
+38,10-15 min.,301,48.006379585326954,Engelburg School,597
+38,15+ min.,10,1.5948963317384368,Engelburg School,597
+39,0-5 min.,56,8.98876404494382,Grantosa Drive School,823
+39,5-10 min.,387,62.11878009630819,Grantosa Drive School,823
+39,10-15 min.,180,28.892455858747994,Grantosa Drive School,823
+39,15+ min.,0,0,Grantosa Drive School,823
+40,0-5 min.,153,22.666666666666664,Seventy-Six Street Building,753
+40,5-10 min.,247,36.592592592592595,Seventy-Six Street Building,753
+40,10-15 min.,275,40.74074074074074,Seventy-Six Street Building,753
+40,15+ min.,0,0,Seventy-Six Street Building,753
+41,0-5 min.,84,11.38211382113821,Lancaster School,1004
+41,5-10 min.,349,47.289972899729,Lancaster School,1004
+41,10-15 min.,234,31.70731707317073,Lancaster School,1004
+41,15+ min.,71,9.620596205962059,Lancaster School,1004
+42,0-5 min.,79,8.690869086908691,Byron Kilbourn School,1166
+42,5-10 min.,446,49.064906490649065,Byron Kilbourn School,1166
+42,10-15 min.,343,37.733773377337734,Byron Kilbourn School,1166
+42,15+ min.,41,4.51045104510451,Byron Kilbourn School,1166
+43,0-5 min.,5,0.700280112044818,Lancaster School,1065
+43,5-10 min.,318,44.537815126050425,Lancaster School,1065
+43,10-15 min.,271,37.95518207282913,Lancaster School,1065
+43,15+ min.,120,16.80672268907563,Lancaster School,1065
+44,0-5 min.,183,20.515695067264573,Silver Spring Neighborhood Center,1030
+44,5-10 min.,413,46.300448430493276,Silver Spring Neighborhood Center,1030
+44,10-15 min.,285,31.950672645739907,Silver Spring Neighborhood Center,1030
+44,15+ min.,11,1.2331838565022422,Silver Spring Neighborhood Center,1030
+45,0-5 min.,66,8.138101109741061,Hampton School,1019
+45,5-10 min.,504,62.14549938347719,Hampton School,1019
+45,10-15 min.,241,29.716399506781748,Hampton School,1019
+45,15+ min.,0,0,Hampton School,1019
+46,0-5 min.,0,0,Hampton School,477
+46,5-10 min.,137,36.63101604278075,Hampton School,477
+46,10-15 min.,199,53.20855614973262,Hampton School,477
+46,15+ min.,38,10.16042780748663,Hampton School,477
+47,0-5 min.,32,6.477732793522267,McGovern Park Senior Center,573
+47,5-10 min.,326,65.9919028340081,McGovern Park Senior Center,573
+47,10-15 min.,136,27.530364372469634,McGovern Park Senior Center,573
+47,15+ min.,0,0,McGovern Park Senior Center,573
+48,0-5 min.,39,2.6767330130404945,Barack Obama School of CTE,1486
+48,5-10 min.,431,29.58133150308854,Barack Obama School of CTE,1486
+48,10-15 min.,792,54.358270418668496,Barack Obama School of CTE,1486
+48,15+ min.,195,13.383665065202472,Barack Obama School of CTE,1486
+49,0-5 min.,0,0,McGovern Park Senior Center,1009
+49,5-10 min.,215,22.536687631027252,McGovern Park Senior Center,1009
+49,10-15 min.,465,48.742138364779876,McGovern Park Senior Center,1009
+49,15+ min.,274,28.721174004192875,McGovern Park Senior Center,1009
+50,0-5 min.,61,7.142857142857142,Villard Square Branch,732
+50,5-10 min.,228,26.697892271662766,Villard Square Branch,732
+50,10-15 min.,472,55.26932084309133,Villard Square Branch,732
+50,15+ min.,93,10.889929742388759,Villard Square Branch,732
+51,0-5 min.,130,14.25438596491228,Villard Square Branch,880
+51,5-10 min.,420,46.05263157894737,Villard Square Branch,880
+51,10-15 min.,349,38.26754385964912,Villard Square Branch,880
+51,15+ min.,13,1.425438596491228,Villard Square Branch,880
+52,0-5 min.,0,0,Marvin Pratt School,811
+52,5-10 min.,12,1.8957345971563981,Marvin Pratt School,811
+52,10-15 min.,226,35.70300157977883,Marvin Pratt School,811
+52,15+ min.,395,62.40126382306477,Marvin Pratt School,811
+53,0-5 min.,86,25.595238095238095,Marvin Pratt School,754
+53,5-10 min.,58,17.261904761904763,Marvin Pratt School,754
+53,10-15 min.,142,42.26190476190476,Marvin Pratt School,754
+53,15+ min.,50,14.880952380952381,Marvin Pratt School,754
+54,0-5 min.,44,5.288461538461538,Milwaukee Excellence Charter,918
+54,5-10 min.,592,71.15384615384616,Milwaukee Excellence Charter,918
+54,10-15 min.,196,23.557692307692307,Milwaukee Excellence Charter,918
+54,15+ min.,0,0,Milwaukee Excellence Charter,918
+55,0-5 min.,0,0,Rufus King High School,687
+55,5-10 min.,34,5.851979345955249,Rufus King High School,687
+55,10-15 min.,120,20.65404475043029,Rufus King High School,687
+55,15+ min.,427,73.49397590361446,Rufus King High School,687
+56,0-5 min.,151,13.006029285099052,Rufus King High School,1465
+56,5-10 min.,649,55.900086132644276,Rufus King High School,1465
+56,10-15 min.,216,18.6046511627907,Rufus King High School,1465
+56,15+ min.,145,12.489233419465979,Rufus King High School,1465
+57,0-5 min.,219,25.704225352112676,Atkinson Library,872
+57,5-10 min.,371,43.544600938967136,Atkinson Library,872
+57,10-15 min.,262,30.751173708920188,Atkinson Library,872
+57,15+ min.,0,0,Atkinson Library,872
+58,0-5 min.,393,48.45869297163995,New Hope Missionary Baptist Church,782
+58,5-10 min.,418,51.54130702836005,New Hope Missionary Baptist Church,782
+58,10-15 min.,0,0,New Hope Missionary Baptist Church,782
+58,15+ min.,0,0,New Hope Missionary Baptist Church,782
+59,0-5 min.,0,0,New Hope Missionary Baptist Church,684
+59,5-10 min.,185,28.549382716049383,New Hope Missionary Baptist Church,684
+59,10-15 min.,386,59.5679012345679,New Hope Missionary Baptist Church,684
+59,15+ min.,77,11.882716049382717,New Hope Missionary Baptist Church,684
+60,0-5 min.,0,0,Banner Prep / Asata High School,612
+60,5-10 min.,28,3.7433155080213902,Banner Prep / Asata High School,612
+60,10-15 min.,172,22.994652406417114,Banner Prep / Asata High School,612
+60,15+ min.,548,73.2620320855615,Banner Prep / Asata High School,612
+61,0-5 min.,0,0,Samuel Clemens School,1144
+61,5-10 min.,197,19.42800788954635,Samuel Clemens School,1144
+61,10-15 min.,384,37.8698224852071,Samuel Clemens School,1144
+61,15+ min.,433,42.70216962524655,Samuel Clemens School,1144
+62,0-5 min.,138,15.664018161180476,Samuel Clemens School,1147
+62,5-10 min.,469,53.23496027241771,Samuel Clemens School,1147
+62,10-15 min.,274,31.101021566401815,Samuel Clemens School,1147
+62,15+ min.,0,0,Samuel Clemens School,1147
+63,0-5 min.,10,3.7735849056603774,Central City CyberSchool,688
+63,5-10 min.,191,72.0754716981132,Central City CyberSchool,688
+63,10-15 min.,64,24.150943396226417,Central City CyberSchool,688
+63,15+ min.,0,0,Central City CyberSchool,688
+64,0-5 min.,0,0,Central City CyberSchool,623
+64,5-10 min.,145,26.268115942028984,Central City CyberSchool,623
+64,10-15 min.,312,56.52173913043478,Central City CyberSchool,623
+64,15+ min.,95,17.21014492753623,Central City CyberSchool,623
+65,0-5 min.,98,10.733844468784227,Congress School,1132
+65,5-10 min.,462,50.602409638554214,Congress School,1132
+65,10-15 min.,353,38.66374589266155,Congress School,1132
+65,15+ min.,0,0,Congress School,1132
+66,0-5 min.,69,9.759547383309759,Congress School,944
+66,5-10 min.,332,46.95898161244696,Congress School,944
+66,10-15 min.,246,34.794908062234796,Congress School,944
+66,15+ min.,60,8.486562942008486,Congress School,944
+67,0-5 min.,188,21.266968325791854,Marshall High School,1224
+67,5-10 min.,572,64.70588235294117,Marshall High School,1224
+67,10-15 min.,124,14.027149321266968,Marshall High School,1224
+67,15+ min.,0,0,Marshall High School,1224
+68,0-5 min.,0,0,Marshall High School,742
+68,5-10 min.,162,29.294755877034355,Marshall High School,742
+68,10-15 min.,242,43.76130198915009,Marshall High School,742
+68,15+ min.,149,26.94394213381555,Marshall High School,742
+69,0-5 min.,0,0,Marshall High School,968
+69,5-10 min.,129,19.34032983508246,Marshall High School,968
+69,10-15 min.,353,52.92353823088456,Marshall High School,968
+69,15+ min.,185,27.736131934032983,Marshall High School,968
+70,0-5 min.,205,25.624999999999996,Indigenous Park Pavilion,1111
+70,5-10 min.,505,63.125,Indigenous Park Pavilion,1111
+70,10-15 min.,90,11.25,Indigenous Park Pavilion,1111
+70,15+ min.,0,0,Indigenous Park Pavilion,1111
+71,0-5 min.,0,0,Milwaukee Environmental Sciences School,871
+71,5-10 min.,126,20.792079207920793,Milwaukee Environmental Sciences School,871
+71,10-15 min.,312,51.48514851485149,Milwaukee Environmental Sciences School,871
+71,15+ min.,168,27.722772277227726,Milwaukee Environmental Sciences School,871
+72,0-5 min.,0,0,Milwaukee German Immersion School,760
+72,5-10 min.,0,0,Milwaukee German Immersion School,760
+72,10-15 min.,197,35.115864527629235,Milwaukee German Immersion School,760
+72,15+ min.,364,64.88413547237076,Milwaukee German Immersion School,760
+73,0-5 min.,17,2.941176470588235,Craig Montessori School,719
+73,5-10 min.,251,43.42560553633218,Craig Montessori School,719
+73,10-15 min.,220,38.062283737024224,Craig Montessori School,719
+73,15+ min.,90,15.570934256055363,Craig Montessori School,719
+74,0-5 min.,0,0,Craig Montessori School,705
+74,5-10 min.,166,27.666666666666668,Craig Montessori School,705
+74,10-15 min.,346,57.666666666666664,Craig Montessori School,705
+74,15+ min.,88,14.666666666666666,Craig Montessori School,705
+75,0-5 min.,141,14.984059511158343,Emerson School,1223
+75,5-10 min.,457,48.565356004250795,Emerson School,1223
+75,10-15 min.,287,30.49946865037195,Emerson School,1223
+75,15+ min.,56,5.951115834218916,Emerson School,1223
+76,0-5 min.,91,9.036742800397219,Emerson School,1210
+76,5-10 min.,366,36.34558093346574,Emerson School,1210
+76,10-15 min.,413,41.012909632572,Emerson School,1210
+76,15+ min.,137,13.604766633565044,Emerson School,1210
+77,0-5 min.,0,0,Ninety - Fifth Street School,1250
+77,5-10 min.,197,16.042345276872965,Ninety - Fifth Street School,1250
+77,10-15 min.,221,17.996742671009773,Ninety - Fifth Street School,1250
+77,15+ min.,810,65.96091205211727,Ninety - Fifth Street School,1250
+78,0-5 min.,115,23.809523809523807,Ninety - Fifth Street School,674
+78,5-10 min.,353,73.08488612836439,Ninety - Fifth Street School,674
+78,10-15 min.,15,3.1055900621118013,Ninety - Fifth Street School,674
+78,15+ min.,0,0,Ninety - Fifth Street School,674
+79,0-5 min.,0,0,Cooper Park Pavilion,1554
+79,5-10 min.,0,0,Cooper Park Pavilion,1554
+79,10-15 min.,96,11.469534050179211,Cooper Park Pavilion,1554
+79,15+ min.,741,88.5304659498208,Cooper Park Pavilion,1554
+80,0-5 min.,0,0,Milwaukee School of Languages,765
+80,5-10 min.,130,23.381294964028775,Milwaukee School of Languages,765
+80,10-15 min.,254,45.68345323741007,Milwaukee School of Languages,765
+80,15+ min.,172,30.935251798561154,Milwaukee School of Languages,765
+81,0-5 min.,24,4.21792618629174,Milwaukee School of Languages,755
+81,5-10 min.,377,66.25659050966608,Milwaukee School of Languages,755
+81,10-15 min.,168,29.525483304042176,Milwaukee School of Languages,755
+81,15+ min.,0,0,Milwaukee School of Languages,755
+82,0-5 min.,204,66.44951140065146,Firehouse Station 22,369
+82,5-10 min.,103,33.55048859934853,Firehouse Station 22,369
+82,10-15 min.,0,0,Firehouse Station 22,369
+82,15+ min.,0,0,Firehouse Station 22,369
+83,0-5 min.,192,16.827344434706397,Cooper Park Pavilion,1667
+83,5-10 min.,753,65.99474145486415,Cooper Park Pavilion,1667
+83,10-15 min.,196,17.177914110429448,Cooper Park Pavilion,1667
+83,15+ min.,0,0,Cooper Park Pavilion,1667
+84,0-5 min.,14,1.8617021276595744,Boys & Girls Club - Mary Ryan,926
+84,5-10 min.,402,53.45744680851063,Boys & Girls Club - Mary Ryan,926
+84,10-15 min.,300,39.8936170212766,Boys & Girls Club - Mary Ryan,926
+84,15+ min.,36,4.787234042553192,Boys & Girls Club - Mary Ryan,926
+85,0-5 min.,224,21.17202268431002,Eighty-First Street School,1488
+85,5-10 min.,660,62.38185255198487,Eighty-First Street School,1488
+85,10-15 min.,174,16.446124763705104,Eighty-First Street School,1488
+85,15+ min.,0,0,Eighty-First Street School,1488
+86,0-5 min.,66,8.991825613079019,Milwaukee German Immersion School,942
+86,5-10 min.,482,65.66757493188011,Milwaukee German Immersion School,942
+86,10-15 min.,185,25.204359673024523,Milwaukee German Immersion School,942
+86,15+ min.,1,0.13623978201634876,Milwaukee German Immersion School,942
+87,0-5 min.,29,4.393939393939394,Milwaukee German Immersion School,930
+87,5-10 min.,508,76.96969696969697,Milwaukee German Immersion School,930
+87,10-15 min.,123,18.636363636363637,Milwaukee German Immersion School,930
+87,15+ min.,0,0,Milwaukee German Immersion School,930
+88,0-5 min.,51,4.24646128226478,Dineen Park Pavilion,1460
+88,5-10 min.,646,53.78850957535387,Dineen Park Pavilion,1460
+88,10-15 min.,278,23.1473771856786,Dineen Park Pavilion,1460
+88,15+ min.,226,18.817651956702747,Dineen Park Pavilion,1460
+89,0-5 min.,129,13.465553235908143,Enderis Playground Fieldhouse,1136
+89,5-10 min.,526,54.90605427974948,Enderis Playground Fieldhouse,1136
+89,10-15 min.,303,31.62839248434238,Enderis Playground Fieldhouse,1136
+89,15+ min.,0,0,Enderis Playground Fieldhouse,1136
+90,0-5 min.,67,9.896602658788774,Enderis Playground Fieldhouse,1043
+90,5-10 min.,454,67.0605612998523,Enderis Playground Fieldhouse,1043
+90,10-15 min.,156,23.042836041358935,Enderis Playground Fieldhouse,1043
+90,15+ min.,0,0,Enderis Playground Fieldhouse,1043
+91,0-5 min.,0,0,Center Street Park Pavilion,537
+91,5-10 min.,0,0,Center Street Park Pavilion,537
+91,10-15 min.,50,7.936507936507936,Center Street Park Pavilion,537
+91,15+ min.,580,92.06349206349206,Center Street Park Pavilion,537
+92,0-5 min.,20,3.6968576709796674,Sherman School,759
+92,5-10 min.,330,60.998151571164506,Sherman School,759
+92,10-15 min.,191,35.304990757855826,Sherman School,759
+92,15+ min.,0,0,Sherman School,759
+93,0-5 min.,0,0,Sherman School,1089
+93,5-10 min.,60,6.960556844547564,Sherman School,1089
+93,10-15 min.,350,40.60324825986079,Sherman School,1089
+93,15+ min.,452,52.43619489559165,Sherman School,1089
+94,0-5 min.,72,11.285266457680251,Fifty - Third Street School,950
+94,5-10 min.,311,48.7460815047022,Fifty - Third Street School,950
+94,10-15 min.,251,39.341692789968654,Fifty - Third Street School,950
+94,15+ min.,4,0.6269592476489028,Fifty - Third Street School,950
+95,0-5 min.,151,31.524008350730686,Albright United Methodist Church,701
+95,5-10 min.,328,68.4759916492693,Albright United Methodist Church,701
+95,10-15 min.,0,0,Albright United Methodist Church,701
+95,15+ min.,0,0,Albright United Methodist Church,701
+96,0-5 min.,140,16.203703703703702,Fifty - Third Street School,1225
+96,5-10 min.,510,59.02777777777778,Fifty - Third Street School,1225
+96,10-15 min.,214,24.76851851851852,Fifty - Third Street School,1225
+96,15+ min.,0,0,Fifty - Third Street School,1225
+97,0-5 min.,150,25.16778523489933,Embassy Center MKE (formerly named Parklawn Assembly of God Church),728
+97,5-10 min.,446,74.83221476510067,Embassy Center MKE (formerly named Parklawn Assembly of God Church),728
+97,10-15 min.,0,0,Embassy Center MKE (formerly named Parklawn Assembly of God Church),728
+97,15+ min.,0,0,Embassy Center MKE (formerly named Parklawn Assembly of God Church),728
+98,0-5 min.,0,0,DPW Field Headquarters,1070
+98,5-10 min.,267,30.724971231300348,DPW Field Headquarters,1070
+98,10-15 min.,401,46.14499424626007,DPW Field Headquarters,1070
+98,15+ min.,201,23.130034522439587,DPW Field Headquarters,1070
+99,0-5 min.,69,6.845238095238096,Embassy Center MKE (formerly named Parklawn Assembly of God Church),1244
+99,5-10 min.,642,63.69047619047619,Embassy Center MKE (formerly named Parklawn Assembly of God Church),1244
+99,10-15 min.,297,29.464285714285715,Embassy Center MKE (formerly named Parklawn Assembly of God Church),1244
+99,15+ min.,0,0,Embassy Center MKE (formerly named Parklawn Assembly of God Church),1244
+100,0-5 min.,94,17.938931297709924,Boys & Girls Club - Mary Ryan,608
+100,5-10 min.,351,66.98473282442748,Boys & Girls Club - Mary Ryan,608
+100,10-15 min.,79,15.076335877862595,Boys & Girls Club - Mary Ryan,608
+100,15+ min.,0,0,Boys & Girls Club - Mary Ryan,608
+101,0-5 min.,160,13.136288998357964,Keenan Health Center,1285
+101,5-10 min.,870,71.42857142857143,Keenan Health Center,1285
+101,10-15 min.,188,15.435139573070607,Keenan Health Center,1285
+101,15+ min.,0,0,Keenan Health Center,1285
+102,0-5 min.,0,0,Children's Outing Association,515
+102,5-10 min.,72,12.65377855887522,Children's Outing Association,515
+102,10-15 min.,263,46.22144112478031,Children's Outing Association,515
+102,15+ min.,234,41.12478031634446,Children's Outing Association,515
+103,0-5 min.,0,0,Ben Franklin School,621
+103,5-10 min.,46,7.210031347962382,Ben Franklin School,621
+103,10-15 min.,196,30.721003134796238,Ben Franklin School,621
+103,15+ min.,396,62.06896551724138,Ben Franklin School,621
+104,0-5 min.,189,18.529411764705884,Ben Franklin School,1129
+104,5-10 min.,680,66.66666666666666,Ben Franklin School,1129
+104,10-15 min.,151,14.803921568627452,Ben Franklin School,1129
+104,15+ min.,0,0,Ben Franklin School,1129
+105,0-5 min.,79,8.36864406779661,Ben Franklin School,927
+105,5-10 min.,602,63.771186440677965,Ben Franklin School,927
+105,10-15 min.,231,24.470338983050848,Ben Franklin School,927
+105,15+ min.,32,3.389830508474576,Ben Franklin School,927
+106,0-5 min.,127,18.432510885341074,Children's Outing Association,604
+106,5-10 min.,434,62.989840348330915,Children's Outing Association,604
+106,10-15 min.,128,18.57764876632801,Children's Outing Association,604
+106,15+ min.,0,0,Children's Outing Association,604
+107,0-5 min.,145,24.493243243243242,Children's Outing Association,562
+107,5-10 min.,395,66.72297297297297,Children's Outing Association,562
+107,10-15 min.,52,8.783783783783784,Children's Outing Association,562
+107,15+ min.,0,0,Children's Outing Association,562
+108,0-5 min.,260,37.51803751803752,Metropolitan Baptist Church,696
+108,5-10 min.,268,38.67243867243867,Metropolitan Baptist Church,696
+108,10-15 min.,165,23.809523809523807,Metropolitan Baptist Church,696
+108,15+ min.,0,0,Metropolitan Baptist Church,696
+109,0-5 min.,160,22.922636103151863,Douglas Complex School,630
+109,5-10 min.,399,57.163323782234954,Douglas Complex School,630
+109,10-15 min.,130,18.624641833810887,Douglas Complex School,630
+109,15+ min.,9,1.2893982808022924,Douglas Complex School,630
+110,0-5 min.,185,31.732418524871353,St Mark's Quality of Life Center II,592
+110,5-10 min.,398,68.26758147512865,St Mark's Quality of Life Center II,592
+110,10-15 min.,0,0,St Mark's Quality of Life Center II,592
+110,15+ min.,0,0,St Mark's Quality of Life Center II,592
+111,0-5 min.,283,30.92896174863388,St Mark's Quality of Life Center II,979
+111,5-10 min.,605,66.12021857923497,St Mark's Quality of Life Center II,979
+111,10-15 min.,27,2.9508196721311477,St Mark's Quality of Life Center II,979
+111,15+ min.,0,0,St Mark's Quality of Life Center II,979
+112,0-5 min.,0,0,Douglas Complex School,500
+112,5-10 min.,8,1.335559265442404,Douglas Complex School,500
+112,10-15 min.,347,57.92988313856428,Douglas Complex School,500
+112,15+ min.,244,40.73455759599332,Douglas Complex School,500
+113,0-5 min.,162,26.17124394184168,LaFollette School,564
+113,5-10 min.,424,68.49757673667204,LaFollette School,564
+113,10-15 min.,33,5.3311793214862675,LaFollette School,564
+113,15+ min.,0,0,LaFollette School,564
+114,0-5 min.,153,30,Green Bay Ave School,506
+114,5-10 min.,344,67.45098039215686,Green Bay Ave School,506
+114,10-15 min.,13,2.549019607843137,Green Bay Ave School,506
+114,15+ min.,0,0,Green Bay Ave School,506
+115,0-5 min.,0,0,Martin Luther King Jr School,727
+115,5-10 min.,161,23.367198838896954,Martin Luther King Jr School,727
+115,10-15 min.,397,57.61973875181422,Martin Luther King Jr School,727
+115,15+ min.,131,19.013062409288825,Martin Luther King Jr School,727
+116,0-5 min.,100,14.388489208633093,Martin Luther King Jr School,618
+116,5-10 min.,514,73.9568345323741,Martin Luther King Jr School,618
+116,10-15 min.,81,11.654676258992806,Martin Luther King Jr School,618
+116,15+ min.,0,0,Martin Luther King Jr School,618
+117,0-5 min.,174,21.193666260657736,Clinton Rose Senior Center,794
+117,5-10 min.,622,75.76126674786845,Clinton Rose Senior Center,794
+117,10-15 min.,25,3.0450669914738127,Clinton Rose Senior Center,794
+117,15+ min.,0,0,Clinton Rose Senior Center,794
+118,0-5 min.,18,2.1844660194174756,Clinton Rose Senior Center,868
+118,5-10 min.,551,66.86893203883496,Clinton Rose Senior Center,868
+118,10-15 min.,255,30.94660194174757,Clinton Rose Senior Center,868
+118,15+ min.,0,0,Clinton Rose Senior Center,868
+119,0-5 min.,218,18.36562763268745,Fratney School,1361
+119,5-10 min.,868,73.12552653748948,Fratney School,1361
+119,10-15 min.,101,8.508845829823084,Fratney School,1361
+119,15+ min.,0,0,Fratney School,1361
+120,0-5 min.,0,0,Fratney School,718
+120,5-10 min.,0,0,Fratney School,718
+120,10-15 min.,45,4.390243902439024,Fratney School,718
+120,15+ min.,980,95.60975609756098,Fratney School,718
+121,0-5 min.,22,2.956989247311828,Gordon Park Pavilion,948
+121,5-10 min.,183,24.596774193548388,Gordon Park Pavilion,948
+121,10-15 min.,262,35.215053763440864,Gordon Park Pavilion,948
+121,15+ min.,277,37.23118279569893,Gordon Park Pavilion,948
+122,0-5 min.,47,7.556270096463022,Locust Court Apartments,959
+122,5-10 min.,45,7.234726688102894,Locust Court Apartments,959
+122,10-15 min.,218,35.048231511254016,Locust Court Apartments,959
+122,15+ min.,312,50.160771704180064,Locust Court Apartments,959
+123,0-5 min.,4,0.3472222222222222,UWM Lubar Entrepreneurship Center,1451
+123,5-10 min.,591,51.302083333333336,UWM Lubar Entrepreneurship Center,1451
+123,10-15 min.,529,45.92013888888889,UWM Lubar Entrepreneurship Center,1451
+123,15+ min.,28,2.430555555555556,UWM Lubar Entrepreneurship Center,1451
+124,0-5 min.,253,18.149210903873744,Riverside High School,1617
+124,5-10 min.,858,61.54949784791965,Riverside High School,1617
+124,10-15 min.,283,20.3012912482066,Riverside High School,1617
+124,15+ min.,0,0,Riverside High School,1617
+125,0-5 min.,0,0,Riverside High School,1158
+125,5-10 min.,5,0.6693440428380187,Riverside High School,1158
+125,10-15 min.,572,76.57295850066934,Riverside High School,1158
+125,15+ min.,170,22.757697456492636,Riverside High School,1158
+126,0-5 min.,0,0,UWM Lubar Entrepreneurship Center,916
+126,5-10 min.,19,52.77777777777778,UWM Lubar Entrepreneurship Center,916
+126,10-15 min.,17,47.22222222222222,UWM Lubar Entrepreneurship Center,916
+126,15+ min.,0,0,UWM Lubar Entrepreneurship Center,916
+127,0-5 min.,324,47.57709251101321,Plymouth Church,1268
+127,5-10 min.,319,46.84287812041116,Plymouth Church,1268
+127,10-15 min.,38,5.580029368575625,Plymouth Church,1268
+127,15+ min.,0,0,Plymouth Church,1268
+128,0-5 min.,0,0,Maryland Av Montessori School,1832
+128,5-10 min.,287,32.912844036697244,Maryland Av Montessori School,1832
+128,10-15 min.,339,38.87614678899082,Maryland Av Montessori School,1832
+128,15+ min.,246,28.211009174311926,Maryland Av Montessori School,1832
+129,0-5 min.,242,28.878281622911693,Maryland Av Montessori School,980
+129,5-10 min.,583,69.57040572792363,Maryland Av Montessori School,980
+129,10-15 min.,13,1.5513126491646778,Maryland Av Montessori School,980
+129,15+ min.,0,0,Maryland Av Montessori School,980
+130,0-5 min.,17,1.5315315315315314,Maryland Av Montessori School,975
+130,5-10 min.,1027,92.52252252252252,Maryland Av Montessori School,975
+130,10-15 min.,66,5.9459459459459465,Maryland Av Montessori School,975
+130,15+ min.,0,0,Maryland Av Montessori School,975
+131,0-5 min.,639,44.9051300070274,East Library,1422
+131,5-10 min.,784,55.0948699929726,East Library,1422
+131,10-15 min.,0,0,East Library,1422
+131,15+ min.,0,0,East Library,1422
+132,0-5 min.,263,24.952561669829223,Urban Ecology Center,1181
+132,5-10 min.,624,59.20303605313093,Urban Ecology Center,1181
+132,10-15 min.,167,15.844402277039848,Urban Ecology Center,1181
+132,15+ min.,0,0,Urban Ecology Center,1181
+133,0-5 min.,13,2.2530329289428077,Gordon Park Pavilion,792
+133,5-10 min.,260,45.06065857885615,Gordon Park Pavilion,792
+133,10-15 min.,211,36.56845753899481,Gordon Park Pavilion,792
+133,15+ min.,93,16.11785095320624,Gordon Park Pavilion,792
+134,0-5 min.,282,31.97278911564626,Riverwest Elementary School,1025
+134,5-10 min.,575,65.19274376417233,Riverwest Elementary School,1025
+134,10-15 min.,25,2.8344671201814062,Riverwest Elementary School,1025
+134,15+ min.,0,0,Riverwest Elementary School,1025
+135,0-5 min.,239,15.19389701207883,Oliver Wendell Holmes School,1815
+135,5-10 min.,872,55.4354736172918,Oliver Wendell Holmes School,1815
+135,10-15 min.,462,29.37062937062937,Oliver Wendell Holmes School,1815
+135,15+ min.,0,0,Oliver Wendell Holmes School,1815
+136,0-5 min.,105,26.785714285714285,Holton Terrace Apartments,489
+136,5-10 min.,287,73.21428571428571,Holton Terrace Apartments,489
+136,10-15 min.,0,0,Holton Terrace Apartments,489
+136,15+ min.,0,0,Holton Terrace Apartments,489
+137,0-5 min.,0,0,Northcott Neighborhood House,664
+137,5-10 min.,266,44.78114478114478,Northcott Neighborhood House,664
+137,10-15 min.,328,55.218855218855225,Northcott Neighborhood House,664
+137,15+ min.,0,0,Northcott Neighborhood House,664
+138,0-5 min.,263,37.51783166904422,Northcott Neighborhood House,716
+138,5-10 min.,388,55.349500713266764,Northcott Neighborhood House,716
+138,10-15 min.,50,7.132667617689016,Northcott Neighborhood House,716
+138,15+ min.,0,0,Northcott Neighborhood House,716
+139,0-5 min.,141,27.06333973128599,North Division High School,494
+139,5-10 min.,365,70.05758157389636,North Division High School,494
+139,10-15 min.,15,2.8790786948176583,North Division High School,494
+139,15+ min.,0,0,North Division High School,494
+140,0-5 min.,3,0.3588516746411483,North Division High School,838
+140,5-10 min.,272,32.535885167464116,North Division High School,838
+140,10-15 min.,237,28.349282296650717,North Division High School,838
+140,15+ min.,324,38.75598086124402,North Division High School,838
+141,0-5 min.,228,34.54545454545455,Frank P. Zeidler Municipal Building,633
+141,5-10 min.,432,65.45454545454545,Frank P. Zeidler Municipal Building,633
+141,10-15 min.,0,0,Frank P. Zeidler Municipal Building,633
+141,15+ min.,0,0,Frank P. Zeidler Municipal Building,633
+142,0-5 min.,148,25.47332185886403,Milwaukee Rescue Mission,530
+142,5-10 min.,413,71.08433734939759,Milwaukee Rescue Mission,530
+142,10-15 min.,20,3.4423407917383817,Milwaukee Rescue Mission,530
+142,15+ min.,0,0,Milwaukee Rescue Mission,530
+143,0-5 min.,192,28.235294117647058,Gwen T Jackson School,612
+143,5-10 min.,429,63.088235294117645,Gwen T Jackson School,612
+143,10-15 min.,59,8.676470588235293,Gwen T Jackson School,612
+143,15+ min.,0,0,Gwen T Jackson School,612
+144,0-5 min.,0,0,Milwaukee Rescue Mission,790
+144,5-10 min.,175,20.278099652375435,Milwaukee Rescue Mission,790
+144,10-15 min.,447,51.79606025492468,Milwaukee Rescue Mission,790
+144,15+ min.,241,27.925840092699882,Milwaukee Rescue Mission,790
+145,0-5 min.,93,11.877394636015326,Frances Starms Disc Learning Ctr School,799
+145,5-10 min.,214,27.330779054916988,Frances Starms Disc Learning Ctr School,799
+145,10-15 min.,274,34.993614303959134,Frances Starms Disc Learning Ctr School,799
+145,15+ min.,202,25.798212005108557,Frances Starms Disc Learning Ctr School,799
+146,0-5 min.,151,21.75792507204611,West Side Academy I School,747
+146,5-10 min.,475,68.44380403458213,West Side Academy I School,747
+146,10-15 min.,68,9.798270893371757,West Side Academy I School,747
+146,15+ min.,0,0,West Side Academy I School,747
+147,0-5 min.,173,32.33644859813084,Center Street Library,490
+147,5-10 min.,359,67.10280373831776,Center Street Library,490
+147,10-15 min.,3,0.5607476635514018,Center Street Library,490
+147,15+ min.,0,0,Center Street Library,490
+148,0-5 min.,93,12.601626016260163,Ralph H. Metcalfe School,481
+148,5-10 min.,202,27.371273712737125,Ralph H. Metcalfe School,481
+148,10-15 min.,247,33.46883468834688,Ralph H. Metcalfe School,481
+148,15+ min.,196,26.558265582655828,Ralph H. Metcalfe School,481
+149,0-5 min.,3,0.46224961479198773,Washington High School,850
+149,5-10 min.,190,29.275808936825886,Washington High School,850
+149,10-15 min.,289,44.53004622496148,Washington High School,850
+149,15+ min.,167,25.731895223420647,Washington High School,850
+150,0-5 min.,65,10.172143974960877,Washington High School,673
+150,5-10 min.,367,57.43348982785602,Washington High School,673
+150,10-15 min.,207,32.3943661971831,Washington High School,673
+150,15+ min.,0,0,Washington High School,673
+151,0-5 min.,0,0,Washington Park Library,668
+151,5-10 min.,166,24.592592592592595,Washington Park Library,668
+151,10-15 min.,374,55.407407407407405,Washington Park Library,668
+151,15+ min.,135,20,Washington Park Library,668
+152,0-5 min.,113,14.24968474148802,Washington Park Library,869
+152,5-10 min.,463,58.38587641866331,Washington Park Library,869
+152,10-15 min.,209,26.35561160151324,Washington Park Library,869
+152,15+ min.,8,1.008827238335435,Washington Park Library,869
+153,0-5 min.,270,51.625239005736134,Hi-Mount Blvd School,608
+153,5-10 min.,253,48.37476099426386,Hi-Mount Blvd School,608
+153,10-15 min.,0,0,Hi-Mount Blvd School,608
+153,15+ min.,0,0,Hi-Mount Blvd School,608
+154,0-5 min.,0,0,Hi-Mount Blvd School,736
+154,5-10 min.,290,47.85478547854785,Hi-Mount Blvd School,736
+154,10-15 min.,306,50.495049504950494,Hi-Mount Blvd School,736
+154,15+ min.,10,1.65016501650165,Hi-Mount Blvd School,736
+155,0-5 min.,184,27.7526395173454,Washington High School,730
+155,5-10 min.,350,52.79034690799397,Washington High School,730
+155,10-15 min.,129,19.457013574660635,Washington High School,730
+155,15+ min.,0,0,Washington High School,730
+156,0-5 min.,0,0,Frank P. Zeidler Municipal Building,1105
+156,5-10 min.,291,26.69724770642202,Frank P. Zeidler Municipal Building,1105
+156,10-15 min.,346,31.743119266055047,Frank P. Zeidler Municipal Building,1105
+156,15+ min.,453,41.559633027522935,Frank P. Zeidler Municipal Building,1105
+157,0-5 min.,0,0,Boys & Girls Club - Mary Ryan,684
+157,5-10 min.,195,33.795493934142115,Boys & Girls Club - Mary Ryan,684
+157,10-15 min.,338,58.578856152513005,Boys & Girls Club - Mary Ryan,684
+157,15+ min.,44,7.625649913344887,Boys & Girls Club - Mary Ryan,684
+158,0-5 min.,286,19.986023759608663,Milwaukee School of Engineering (MSOE) - Diercks Hall,1168
+158,5-10 min.,1145,80.01397624039134,Milwaukee School of Engineering (MSOE) - Diercks Hall,1168
+158,10-15 min.,0,0,Milwaukee School of Engineering (MSOE) - Diercks Hall,1168
+158,15+ min.,0,0,Milwaukee School of Engineering (MSOE) - Diercks Hall,1168
+159,0-5 min.,0,0,Sherman School,594
+159,5-10 min.,219,41.24293785310734,Sherman School,594
+159,10-15 min.,306,57.6271186440678,Sherman School,594
+159,15+ min.,6,1.1299435028248588,Sherman School,594
+160,0-5 min.,72,11.320754716981133,Center Street Park Pavilion,674
+160,5-10 min.,268,42.138364779874216,Center Street Park Pavilion,674
+160,10-15 min.,296,46.540880503144656,Center Street Park Pavilion,674
+160,15+ min.,0,0,Center Street Park Pavilion,674
+161,0-5 min.,10,1.6233766233766231,Milwaukee French Immersion School,744
+161,5-10 min.,236,38.311688311688314,Milwaukee French Immersion School,744
+161,10-15 min.,297,48.214285714285715,Milwaukee French Immersion School,744
+161,15+ min.,73,11.85064935064935,Milwaukee French Immersion School,744
+162,0-5 min.,227,12.56921373200443,Cass Street School,1699
+162,5-10 min.,1482,82.05980066445183,Cass Street School,1699
+162,10-15 min.,97,5.370985603543743,Cass Street School,1699
+162,15+ min.,0,0,Cass Street School,1699
+163,0-5 min.,30,5.555555555555555,Milwaukee French Immersion School,775
+163,5-10 min.,270,50,Milwaukee French Immersion School,775
+163,10-15 min.,227,42.03703703703704,Milwaukee French Immersion School,775
+163,15+ min.,13,2.4074074074074074,Milwaukee French Immersion School,775
+164,0-5 min.,238,17.73472429210134,Neeskara School,1995
+164,5-10 min.,642,47.83904619970194,Neeskara School,1995
+164,10-15 min.,334,24.88822652757079,Neeskara School,1995
+164,15+ min.,128,9.538002980625931,Neeskara School,1995
+165,0-5 min.,0,0,Washington Park Senior Center,665
+165,5-10 min.,41,5.338541666666666,Washington Park Senior Center,665
+165,10-15 min.,366,47.65625,Washington Park Senior Center,665
+165,15+ min.,361,47.00520833333333,Washington Park Senior Center,665
+166,0-5 min.,26,5.029013539651837,West Side Academy I School,493
+166,5-10 min.,391,75.62862669245648,West Side Academy I School,493
+166,10-15 min.,100,19.342359767891683,West Side Academy I School,493
+166,15+ min.,0,0,West Side Academy I School,493
+167,0-5 min.,0,0,Cherry Court Apartments,233
+167,5-10 min.,0,0,Cherry Court Apartments,233
+167,10-15 min.,140,44.0251572327044,Cherry Court Apartments,233
+167,15+ min.,178,55.9748427672956,Cherry Court Apartments,233
+168,0-5 min.,169,28.888888888888886,Cherry Court Apartments,534
+168,5-10 min.,367,62.73504273504273,Cherry Court Apartments,534
+168,10-15 min.,49,8.376068376068375,Cherry Court Apartments,534
+168,15+ min.,0,0,Cherry Court Apartments,534
+169,0-5 min.,75,13.297872340425531,Frances Starms Disc Learning Ctr School,707
+169,5-10 min.,275,48.758865248226954,Frances Starms Disc Learning Ctr School,707
+169,10-15 min.,211,37.4113475177305,Frances Starms Disc Learning Ctr School,707
+169,15+ min.,3,0.5319148936170213,Frances Starms Disc Learning Ctr School,707
+170,0-5 min.,0,0,Highland Gardens Apartments,741
+170,5-10 min.,124,21.08843537414966,Highland Gardens Apartments,741
+170,10-15 min.,295,50.17006802721088,Highland Gardens Apartments,741
+170,15+ min.,169,28.741496598639454,Highland Gardens Apartments,741
+171,0-5 min.,351,53.669724770642205,Housing Authority Public Safety Building,660
+171,5-10 min.,280,42.813455657492355,Housing Authority Public Safety Building,660
+171,10-15 min.,23,3.5168195718654434,Housing Authority Public Safety Building,660
+171,15+ min.,0,0,Housing Authority Public Safety Building,660
+172,0-5 min.,0,0,Hillside Family Resource Center,863
+172,5-10 min.,462,69.05829596412556,Hillside Family Resource Center,863
+172,10-15 min.,207,30.94170403587444,Hillside Family Resource Center,863
+172,15+ min.,0,0,Hillside Family Resource Center,863
+173,0-5 min.,253,12.941176470588237,Carver Academy of Math & Science School,2287
+173,5-10 min.,1099,56.21483375959079,Carver Academy of Math & Science School,2287
+173,10-15 min.,350,17.902813299232736,Carver Academy of Math & Science School,2287
+173,15+ min.,253,12.941176470588237,Carver Academy of Math & Science School,2287
+174,0-5 min.,369,17.903930131004365,Firehouse Station 6,1842
+174,5-10 min.,1632,79.1848617176128,Firehouse Station 6,1842
+174,10-15 min.,60,2.911208151382824,Firehouse Station 6,1842
+174,15+ min.,0,0,Firehouse Station 6,1842
+175,0-5 min.,55,2.7106949236076887,Riverview Apartments,2079
+175,5-10 min.,1839,90.63578117299163,Riverview Apartments,2079
+175,10-15 min.,135,6.65352390340069,Riverview Apartments,2079
+175,15+ min.,0,0,Riverview Apartments,2079
+176,0-5 min.,99,8.714788732394366,Charles Allis Art Museum,1357
+176,5-10 min.,647,56.95422535211267,Charles Allis Art Museum,1357
+176,10-15 min.,342,30.1056338028169,Charles Allis Art Museum,1357
+176,15+ min.,48,4.225352112676056,Charles Allis Art Museum,1357
+177,0-5 min.,419,27.119741100323623,Charles Allis Art Museum,1827
+177,5-10 min.,950,61.48867313915858,Charles Allis Art Museum,1827
+177,10-15 min.,176,11.3915857605178,Charles Allis Art Museum,1827
+177,15+ min.,0,0,Charles Allis Art Museum,1827
+178,0-5 min.,455,29.68036529680365,Arlington Court Apartments,1481
+178,5-10 min.,1078,70.31963470319634,Arlington Court Apartments,1481
+178,10-15 min.,0,0,Arlington Court Apartments,1481
+178,15+ min.,0,0,Arlington Court Apartments,1481
+179,0-5 min.,393,32.969798657718115,Cass Street School,1061
+179,5-10 min.,799,67.03020134228188,Cass Street School,1061
+179,10-15 min.,0,0,Cass Street School,1061
+179,15+ min.,0,0,Cass Street School,1061
+180,0-5 min.,665,31.456953642384107,Convent Hill Apartments,1698
+180,5-10 min.,396,18.732261116367077,Convent Hill Apartments,1698
+180,10-15 min.,1053,49.810785241248816,Convent Hill Apartments,1698
+180,15+ min.,0,0,Convent Hill Apartments,1698
+181,0-5 min.,0,0,Milwaukee School of Engineering (MSOE) - Diercks Hall,1341
+181,5-10 min.,1109,64.32714617169374,Milwaukee School of Engineering (MSOE) - Diercks Hall,1341
+181,10-15 min.,615,35.672853828306266,Milwaukee School of Engineering (MSOE) - Diercks Hall,1341
+181,15+ min.,0,0,Milwaukee School of Engineering (MSOE) - Diercks Hall,1341
+182,0-5 min.,152,11.996842936069456,Milwaukee Public Market,1300
+182,5-10 min.,573,45.2249408050513,Milwaukee Public Market,1300
+182,10-15 min.,542,42.77821625887924,Milwaukee Public Market,1300
+182,15+ min.,0,0,Milwaukee Public Market,1300
+183,0-5 min.,689,49.783236994219656,Central Library - Centennial Hall,920
+183,5-10 min.,281,20.303468208092486,Central Library - Centennial Hall,920
+183,10-15 min.,314,22.6878612716763,Central Library - Centennial Hall,920
+183,15+ min.,100,7.225433526011561,Central Library - Centennial Hall,920
+184,0-5 min.,259,23.43891402714932,Central Library - Centennial Hall,733
+184,5-10 min.,211,19.09502262443439,Central Library - Centennial Hall,733
+184,10-15 min.,635,57.466063348416284,Central Library - Centennial Hall,733
+184,15+ min.,0,0,Central Library - Centennial Hall,733
+185,0-5 min.,0,0,Central Library - Centennial Hall,668
+185,5-10 min.,145,16.57142857142857,Central Library - Centennial Hall,668
+185,10-15 min.,509,58.17142857142857,Central Library - Centennial Hall,668
+185,15+ min.,221,25.257142857142856,Central Library - Centennial Hall,668
+186,0-5 min.,136,13.039309683604985,Wisconsin Conservatory of Lifelong Learning,882
+186,5-10 min.,906,86.86481303930968,Wisconsin Conservatory of Lifelong Learning,882
+186,10-15 min.,0,0,Wisconsin Conservatory of Lifelong Learning,882
+186,15+ min.,1,0.09587727708533077,Wisconsin Conservatory of Lifelong Learning,882
+187,0-5 min.,777,54.18410041841004,Marquette Alumni Memorial Union,1285
+187,5-10 min.,657,45.81589958158996,Marquette Alumni Memorial Union,1285
+187,10-15 min.,0,0,Marquette Alumni Memorial Union,1285
+187,15+ min.,0,0,Marquette Alumni Memorial Union,1285
+188,0-5 min.,398,47.10059171597633,Highland Gardens Apartments,648
+188,5-10 min.,345,40.828402366863905,Highland Gardens Apartments,648
+188,10-15 min.,102,12.071005917159763,Highland Gardens Apartments,648
+188,15+ min.,0,0,Highland Gardens Apartments,648
+189,0-5 min.,166,22.493224932249323,James E Groppi (27th Street School),598
+189,5-10 min.,372,50.40650406504065,James E Groppi (27th Street School),598
+189,10-15 min.,196,26.558265582655828,James E Groppi (27th Street School),598
+189,15+ min.,4,0.5420054200542005,James E Groppi (27th Street School),598
+190,0-5 min.,0,0,Marquette Alumni Memorial Union,595
+190,5-10 min.,79,8.886389201349832,Marquette Alumni Memorial Union,595
+190,10-15 min.,810,91.11361079865017,Marquette Alumni Memorial Union,595
+190,15+ min.,0,0,Marquette Alumni Memorial Union,595
+191,0-5 min.,340,44.854881266490764,Milwaukee Academy of Chinese Language,383
+191,5-10 min.,404,53.29815303430079,Milwaukee Academy of Chinese Language,383
+191,10-15 min.,14,1.8469656992084433,Milwaukee Academy of Chinese Language,383
+191,15+ min.,0,0,Milwaukee Academy of Chinese Language,383
+192,0-5 min.,93,18.562874251497004,Milwaukee Academy of Chinese Language,311
+192,5-10 min.,317,63.27345309381237,Milwaukee Academy of Chinese Language,311
+192,10-15 min.,91,18.163672654690618,Milwaukee Academy of Chinese Language,311
+192,15+ min.,0,0,Milwaukee Academy of Chinese Language,311
+193,0-5 min.,221,18.634064080944352,Merrill Park Apartments,1046
+193,5-10 min.,526,44.35075885328836,Merrill Park Apartments,1046
+193,10-15 min.,439,37.01517706576728,Merrill Park Apartments,1046
+193,15+ min.,0,0,Merrill Park Apartments,1046
+194,0-5 min.,60,3.91644908616188,College Court Apartments,840
+194,5-10 min.,215,14.033942558746737,College Court Apartments,840
+194,10-15 min.,1018,66.4490861618799,College Court Apartments,840
+194,15+ min.,239,15.60052219321149,College Court Apartments,840
+195,0-5 min.,62,7.380952380952381,College Court Apartments,797
+195,5-10 min.,449,53.45238095238095,College Court Apartments,797
+195,10-15 min.,329,39.166666666666664,College Court Apartments,797
+195,15+ min.,0,0,College Court Apartments,797
+196,0-5 min.,68,15.384615384615385,James E Groppi (27th Street School),445
+196,5-10 min.,288,65.15837104072398,James E Groppi (27th Street School),445
+196,10-15 min.,86,19.457013574660635,James E Groppi (27th Street School),445
+196,15+ min.,0,0,James E Groppi (27th Street School),445
+197,0-5 min.,11,1.9064124783362217,Story School,418
+197,5-10 min.,293,50.77989601386482,Story School,418
+197,10-15 min.,4,0.6932409012131715,Story School,418
+197,15+ min.,269,46.62045060658579,Story School,418
+198,0-5 min.,0,0,MPS Administration Building,844
+198,5-10 min.,0,0,MPS Administration Building,844
+198,10-15 min.,286,37.48361730013106,MPS Administration Building,844
+198,15+ min.,477,62.516382699868934,MPS Administration Building,844
+199,0-5 min.,237,18.07780320366133,MPS Administration Building,1663
+199,5-10 min.,871,66.43783371472158,MPS Administration Building,1663
+199,10-15 min.,199,15.179252479023647,MPS Administration Building,1663
+199,15+ min.,4,0.30511060259344014,MPS Administration Building,1663
+200,0-5 min.,139,20.321637426900587,Hawley School,867
+200,5-10 min.,480,70.17543859649122,Hawley School,867
+200,10-15 min.,65,9.502923976608187,Hawley School,867
+200,15+ min.,0,0,Hawley School,867
+201,0-5 min.,0,0,Wisconsin Humane Society,676
+201,5-10 min.,150,33.11258278145696,Wisconsin Humane Society,676
+201,10-15 min.,136,30.022075055187635,Wisconsin Humane Society,676
+201,15+ min.,167,36.86534216335541,Wisconsin Humane Society,676
+202,0-5 min.,118,16.80911680911681,MacDowell Montessori School,793
+202,5-10 min.,509,72.50712250712252,MacDowell Montessori School,793
+202,10-15 min.,75,10.683760683760683,MacDowell Montessori School,793
+202,15+ min.,0,0,MacDowell Montessori School,793
+203,0-5 min.,0,0,MacDowell Montessori School,898
+203,5-10 min.,65,8.530183727034121,MacDowell Montessori School,898
+203,10-15 min.,294,38.582677165354326,MacDowell Montessori School,898
+203,15+ min.,403,52.887139107611546,MacDowell Montessori School,898
+204,0-5 min.,102,14.427157001414429,Dyer Playground Fieldhouse,841
+204,5-10 min.,454,64.21499292786422,Dyer Playground Fieldhouse,841
+204,10-15 min.,151,21.35785007072136,Dyer Playground Fieldhouse,841
+204,15+ min.,0,0,Dyer Playground Fieldhouse,841
+205,0-5 min.,38,6.725663716814159,Cannon Park Pavilion,699
+205,5-10 min.,225,39.823008849557525,Cannon Park Pavilion,699
+205,10-15 min.,302,53.451327433628315,Cannon Park Pavilion,699
+205,15+ min.,0,0,Cannon Park Pavilion,699
+206,0-5 min.,132,17.232375979112273,Cannon Park Pavilion,825
+206,5-10 min.,336,43.86422976501306,Cannon Park Pavilion,825
+206,10-15 min.,187,24.412532637075717,Cannon Park Pavilion,825
+206,15+ min.,111,14.490861618798956,Cannon Park Pavilion,825
+207,0-5 min.,0,0,Luther Burbank School,904
+207,5-10 min.,306,36.42857142857142,Luther Burbank School,904
+207,10-15 min.,355,42.26190476190476,Luther Burbank School,904
+207,15+ min.,179,21.30952380952381,Luther Burbank School,904
+208,0-5 min.,288,32.323232323232325,Luther Burbank School,999
+208,5-10 min.,561,62.96296296296296,Luther Burbank School,999
+208,10-15 min.,42,4.713804713804714,Luther Burbank School,999
+208,15+ min.,0,0,Luther Burbank School,999
+209,0-5 min.,0,0,Wisconsin Humane Society,466
+209,5-10 min.,2,0.38022813688212925,Wisconsin Humane Society,466
+209,10-15 min.,344,65.39923954372624,Wisconsin Humane Society,466
+209,15+ min.,180,34.22053231939163,Wisconsin Humane Society,466
+210,0-5 min.,27,4.804270462633451,Doerfler School,445
+210,5-10 min.,278,49.46619217081851,Doerfler School,445
+210,10-15 min.,221,39.32384341637011,Doerfler School,445
+210,15+ min.,36,6.405693950177936,Doerfler School,445
+211,0-5 min.,0,0,Doerfler School,370
+211,5-10 min.,102,22.319474835886215,Doerfler School,370
+211,10-15 min.,355,77.68052516411379,Doerfler School,370
+211,15+ min.,0,0,Doerfler School,370
+212,0-5 min.,10,1.2836970474967908,Burnham Playfield,755
+212,5-10 min.,481,61.745827984595635,Burnham Playfield,755
+212,10-15 min.,256,32.86264441591784,Burnham Playfield,755
+212,15+ min.,32,4.10783055198973,Burnham Playfield,755
+213,0-5 min.,161,16.615067079463365,Burnham Playfield,864
+213,5-10 min.,677,69.86584107327141,Burnham Playfield,864
+213,10-15 min.,131,13.519091847265221,Burnham Playfield,864
+213,15+ min.,0,0,Burnham Playfield,864
+214,0-5 min.,165,23.77521613832853,Doerfler School,585
+214,5-10 min.,506,72.91066282420749,Doerfler School,585
+214,10-15 min.,23,3.314121037463977,Doerfler School,585
+214,15+ min.,0,0,Doerfler School,585
+215,0-5 min.,325,52.33494363929147,Doerfler School,600
+215,5-10 min.,296,47.66505636070853,Doerfler School,600
+215,10-15 min.,0,0,Doerfler School,600
+215,15+ min.,0,0,Doerfler School,600
+216,0-5 min.,0,0,OASIS Senior Center,1170
+216,5-10 min.,94,6.3556457065584855,OASIS Senior Center,1170
+216,10-15 min.,952,64.36781609195403,OASIS Senior Center,1170
+216,15+ min.,433,29.27653820148749,OASIS Senior Center,1170
+217,0-5 min.,233,22.59941804073715,OASIS Senior Center,700
+217,5-10 min.,795,77.10960232783705,OASIS Senior Center,700
+217,10-15 min.,3,0.2909796314258002,OASIS Senior Center,700
+217,15+ min.,0,0,OASIS Senior Center,700
+218,0-5 min.,433,46.45922746781116,Boys & Girls Club - Don & Sallie Davis,792
+218,5-10 min.,421,45.171673819742495,Boys & Girls Club - Don & Sallie Davis,792
+218,10-15 min.,78,8.369098712446352,Boys & Girls Club - Don & Sallie Davis,792
+218,15+ min.,0,0,Boys & Girls Club - Don & Sallie Davis,792
+219,0-5 min.,9,1.2587412587412588,Boys & Girls Club - Don & Sallie Davis,505
+219,5-10 min.,485,67.83216783216784,Boys & Girls Club - Don & Sallie Davis,505
+219,10-15 min.,221,30.909090909090907,Boys & Girls Club - Don & Sallie Davis,505
+219,15+ min.,0,0,Boys & Girls Club - Don & Sallie Davis,505
+220,0-5 min.,107,12.38425925925926,Longfellow School,565
+220,5-10 min.,440,50.92592592592593,Longfellow School,565
+220,10-15 min.,304,35.18518518518518,Longfellow School,565
+220,15+ min.,13,1.5046296296296295,Longfellow School,565
+221,0-5 min.,234,48.8517745302714,Clarke Square Park Pavilion,318
+221,5-10 min.,245,51.1482254697286,Clarke Square Park Pavilion,318
+221,10-15 min.,0,0,Clarke Square Park Pavilion,318
+221,15+ min.,0,0,Clarke Square Park Pavilion,318
+222,0-5 min.,254,19.644238205723124,Mitchell Court Apartments,903
+222,5-10 min.,677,52.35885537509667,Mitchell Court Apartments,903
+222,10-15 min.,347,26.836813611755606,Mitchell Court Apartments,903
+222,15+ min.,15,1.160092807424594,Mitchell Court Apartments,903
+223,0-5 min.,103,11.962833914053427,Bradley Tech High School,696
+223,5-10 min.,613,71.19628339140534,Bradley Tech High School,696
+223,10-15 min.,26,3.0197444831591174,Bradley Tech High School,696
+223,15+ min.,119,13.821138211382115,Bradley Tech High School,696
+224,0-5 min.,0,0,Longfellow School,429
+224,5-10 min.,240,37.735849056603776,Longfellow School,429
+224,10-15 min.,396,62.264150943396224,Longfellow School,429
+224,15+ min.,0,0,Longfellow School,429
+225,0-5 min.,362,28.616600790513836,Becher Terrace Apartments,855
+225,5-10 min.,805,63.63636363636363,Becher Terrace Apartments,855
+225,10-15 min.,98,7.747035573122529,Becher Terrace Apartments,855
+225,15+ min.,0,0,Becher Terrace Apartments,855
+226,0-5 min.,217,37.2852233676976,South Division High School,373
+226,5-10 min.,365,62.7147766323024,South Division High School,373
+226,10-15 min.,0,0,South Division High School,373
+226,15+ min.,0,0,South Division High School,373
+227,0-5 min.,0,0,South Division High School,308
+227,5-10 min.,491,92.29323308270678,South Division High School,308
+227,10-15 min.,41,7.7067669172932325,South Division High School,308
+227,15+ min.,0,0,South Division High School,308
+228,0-5 min.,0,0,MATC Education Center at Walker's Square,466
+228,5-10 min.,287,34.87241798298906,MATC Education Center at Walker's Square,466
+228,10-15 min.,485,58.93074119076549,MATC Education Center at Walker's Square,466
+228,15+ min.,51,6.1968408262454435,MATC Education Center at Walker's Square,466
+229,0-5 min.,331,38.94117647058823,Bradley Tech High School,466
+229,5-10 min.,282,33.1764705882353,Bradley Tech High School,466
+229,10-15 min.,237,27.88235294117647,Bradley Tech High School,466
+229,15+ min.,0,0,Bradley Tech High School,466
+230,0-5 min.,70,3.943661971830986,Bradley Tech High School,1711
+230,5-10 min.,392,22.08450704225352,Bradley Tech High School,1711
+230,10-15 min.,796,44.84507042253521,Bradley Tech High School,1711
+230,15+ min.,517,29.126760563380284,Bradley Tech High School,1711
+231,0-5 min.,0,0,MATC Education Center at Walker's Square,568
+231,5-10 min.,343,48.44632768361582,MATC Education Center at Walker's Square,568
+231,10-15 min.,365,51.55367231638418,MATC Education Center at Walker's Square,568
+231,15+ min.,0,0,MATC Education Center at Walker's Square,568
+232,0-5 min.,597,45.022624434389144,Allen-Field Elementary School,821
+232,5-10 min.,728,54.90196078431373,Allen-Field Elementary School,821
+232,10-15 min.,1,0.07541478129713425,Allen-Field Elementary School,821
+232,15+ min.,0,0,Allen-Field Elementary School,821
+233,0-5 min.,397,46.871310507674146,Hayes Bilingual School,565
+233,5-10 min.,450,53.128689492325854,Hayes Bilingual School,565
+233,10-15 min.,0,0,Hayes Bilingual School,565
+233,15+ min.,0,0,Hayes Bilingual School,565
+234,0-5 min.,0,0,Hayes Bilingual School,420
+234,5-10 min.,515,75.29239766081871,Hayes Bilingual School,420
+234,10-15 min.,169,24.707602339181285,Hayes Bilingual School,420
+234,15+ min.,0,0,Hayes Bilingual School,420
+235,0-5 min.,0,0,Allen-Field Elementary School,497
+235,5-10 min.,287,47.12643678160919,Allen-Field Elementary School,497
+235,10-15 min.,319,52.38095238095239,Allen-Field Elementary School,497
+235,15+ min.,3,0.49261083743842365,Allen-Field Elementary School,497
+236,0-5 min.,0,0,Beulah Brinton Community Center,1516
+236,5-10 min.,48,3.4139402560455197,Beulah Brinton Community Center,1516
+236,10-15 min.,438,31.152204836415365,Beulah Brinton Community Center,1516
+236,15+ min.,920,65.43385490753911,Beulah Brinton Community Center,1516
+237,0-5 min.,253,30.89133089133089,Beulah Brinton Community Center,1020
+237,5-10 min.,506,61.78266178266178,Beulah Brinton Community Center,1020
+237,10-15 min.,60,7.326007326007327,Beulah Brinton Community Center,1020
+237,15+ min.,0,0,Beulah Brinton Community Center,1020
+238,0-5 min.,17,2.127659574468085,South Shore Park Pavilion,1123
+238,5-10 min.,265,33.166458072590736,South Shore Park Pavilion,1123
+238,10-15 min.,500,62.57822277847309,South Shore Park Pavilion,1123
+238,15+ min.,17,2.127659574468085,South Shore Park Pavilion,1123
+239,0-5 min.,111,9.884238646482636,South Shore Park Pavilion,1690
+239,5-10 min.,574,51.11308993766697,South Shore Park Pavilion,1690
+239,10-15 min.,438,39.0026714158504,South Shore Park Pavilion,1690
+239,15+ min.,0,0,South Shore Park Pavilion,1690
+240,0-5 min.,14,1.4675052410901468,Humboldt Park Pavilion,1348
+240,5-10 min.,583,61.111111111111114,Humboldt Park Pavilion,1348
+240,10-15 min.,327,34.276729559748425,Humboldt Park Pavilion,1348
+240,15+ min.,30,3.1446540880503147,Humboldt Park Pavilion,1348
+241,0-5 min.,235,21.799628942486084,Lincoln Court Apartments,1398
+241,5-10 min.,433,40.1669758812616,Lincoln Court Apartments,1398
+241,10-15 min.,410,38.03339517625232,Lincoln Court Apartments,1398
+241,15+ min.,0,0,Lincoln Court Apartments,1398
+242,0-5 min.,171,18.83259911894273,Kosciuszko Community Center,606
+242,5-10 min.,666,73.34801762114537,Kosciuszko Community Center,606
+242,10-15 min.,71,7.819383259911894,Kosciuszko Community Center,606
+242,15+ min.,0,0,Kosciuszko Community Center,606
+243,0-5 min.,0,0,Clement J. Zablocki School,564
+243,5-10 min.,324,38.94230769230769,Clement J. Zablocki School,564
+243,10-15 min.,417,50.120192307692314,Clement J. Zablocki School,564
+243,15+ min.,91,10.9375,Clement J. Zablocki School,564
+244,0-5 min.,0,0,Firehouse Station 31,252
+244,5-10 min.,194,50.520833333333336,Firehouse Station 31,252
+244,10-15 min.,187,48.69791666666667,Firehouse Station 31,252
+244,15+ min.,3,0.78125,Firehouse Station 31,252
+245,0-5 min.,3,0.5181347150259068,Kosciuszko Community Center,307
+245,5-10 min.,476,82.21070811744386,Kosciuszko Community Center,307
+245,10-15 min.,100,17.271157167530223,Kosciuszko Community Center,307
+245,15+ min.,0,0,Kosciuszko Community Center,307
+246,0-5 min.,75,11.398176291793312,Becher Terrace Apartments,376
+246,5-10 min.,344,52.27963525835866,Becher Terrace Apartments,376
+246,10-15 min.,239,36.32218844984803,Becher Terrace Apartments,376
+246,15+ min.,0,0,Becher Terrace Apartments,376
+247,0-5 min.,609,57.39868049010367,Lincoln Avenue School,742
+247,5-10 min.,437,41.1875589066918,Lincoln Avenue School,742
+247,10-15 min.,15,1.413760603204524,Lincoln Avenue School,742
+247,15+ min.,0,0,Lincoln Avenue School,742
+248,0-5 min.,49,5.147058823529411,U.S. Grant School,829
+248,5-10 min.,397,41.70168067226891,U.S. Grant School,829
+248,10-15 min.,371,38.970588235294116,U.S. Grant School,829
+248,15+ min.,135,14.180672268907562,U.S. Grant School,829
+249,0-5 min.,0,0,U.S. Grant School,594
+249,5-10 min.,114,18.874172185430464,U.S. Grant School,594
+249,10-15 min.,315,52.152317880794705,U.S. Grant School,594
+249,15+ min.,175,28.97350993377483,U.S. Grant School,594
+250,0-5 min.,56,12.933025404157044,Zablocki Library,431
+250,5-10 min.,179,41.339491916859124,Zablocki Library,431
+250,10-15 min.,198,45.72748267898383,Zablocki Library,431
+250,15+ min.,0,0,Zablocki Library,431
+251,0-5 min.,37,29.599999999999998,Manitoba School,202
+251,5-10 min.,88,70.39999999999999,Manitoba School,202
+251,10-15 min.,0,0,Manitoba School,202
+251,15+ min.,0,0,Manitoba School,202
+252,0-5 min.,0,0,Oklahoma Ave Lutheran Church,474
+252,5-10 min.,147,38.38120104438642,Oklahoma Ave Lutheran Church,474
+252,10-15 min.,217,56.6579634464752,Oklahoma Ave Lutheran Church,474
+252,15+ min.,19,4.960835509138381,Oklahoma Ave Lutheran Church,474
+253,0-5 min.,0,0,Milwaukee Spanish Immersion School,1101
+253,5-10 min.,21,1.9980970504281639,Milwaukee Spanish Immersion School,1101
+253,10-15 min.,322,30.637488106565176,Milwaukee Spanish Immersion School,1101
+253,15+ min.,708,67.36441484300666,Milwaukee Spanish Immersion School,1101
+254,0-5 min.,28,2.783300198807157,Milwaukee Spanish Immersion School,1244
+254,5-10 min.,631,62.72365805168986,Milwaukee Spanish Immersion School,1244
+254,10-15 min.,347,34.493041749502986,Milwaukee Spanish Immersion School,1244
+254,15+ min.,0,0,Milwaukee Spanish Immersion School,1244
+255,0-5 min.,7,1.282051282051282,Fairview School,671
+255,5-10 min.,205,37.54578754578755,Fairview School,671
+255,10-15 min.,320,58.60805860805861,Fairview School,671
+255,15+ min.,14,2.564102564102564,Fairview School,671
+256,0-5 min.,0,0,Fairview School,763
+256,5-10 min.,57,9.344262295081968,Fairview School,763
+256,10-15 min.,274,44.91803278688525,Fairview School,763
+256,15+ min.,279,45.73770491803278,Fairview School,763
+257,0-5 min.,10,1.937984496124031,Fairview School,693
+257,5-10 min.,451,87.40310077519379,Fairview School,693
+257,10-15 min.,55,10.65891472868217,Fairview School,693
+257,15+ min.,0,0,Fairview School,693
+258,0-5 min.,7,0.9055627425614489,Wedgewood Park International School,875
+258,5-10 min.,278,35.963777490297545,Wedgewood Park International School,875
+258,10-15 min.,266,34.411384217335055,Wedgewood Park International School,875
+258,15+ min.,222,28.71927554980595,Wedgewood Park International School,875
+259,0-5 min.,42,8.502024291497975,The Bridge,580
+259,5-10 min.,331,67.00404858299595,The Bridge,580
+259,10-15 min.,119,24.089068825910932,The Bridge,580
+259,15+ min.,2,0.4048582995951417,The Bridge,580
+260,0-5 min.,159,14.158504007123776,The Bridge,1115
+260,5-10 min.,570,50.756901157613534,The Bridge,1115
+260,10-15 min.,349,31.077471059661622,The Bridge,1115
+260,15+ min.,45,4.007123775601069,The Bridge,1115
+261,0-5 min.,0,0,Milwaukee Spanish Immersion School II,1579
+261,5-10 min.,251,17.979942693409743,Milwaukee Spanish Immersion School II,1579
+261,10-15 min.,453,32.449856733524356,Milwaukee Spanish Immersion School II,1579
+261,15+ min.,692,49.570200573065904,Milwaukee Spanish Immersion School II,1579
+262,0-5 min.,11,1.40485312899106,Alcott Elementary School,1154
+262,5-10 min.,395,50.44699872286079,Alcott Elementary School,1154
+262,10-15 min.,275,35.1213282247765,Alcott Elementary School,1154
+262,15+ min.,102,13.026819923371647,Alcott Elementary School,1154
+263,0-5 min.,58,11.670020120724347,Milwaukee Spanish Immersion School II,639
+263,5-10 min.,314,63.17907444668008,Milwaukee Spanish Immersion School II,639
+263,10-15 min.,125,25.15090543259557,Milwaukee Spanish Immersion School II,639
+263,15+ min.,0,0,Milwaukee Spanish Immersion School II,639
+264,0-5 min.,55,11.363636363636363,Milwaukee Spanish Immersion School II,631
+264,5-10 min.,294,60.74380165289256,Milwaukee Spanish Immersion School II,631
+264,10-15 min.,135,27.892561983471076,Milwaukee Spanish Immersion School II,631
+264,15+ min.,0,0,Milwaukee Spanish Immersion School II,631
+265,0-5 min.,81,5.785714285714286,Redeemer Evangelical Free Church,1580
+265,5-10 min.,804,57.42857142857143,Redeemer Evangelical Free Church,1580
+265,10-15 min.,437,31.214285714285715,Redeemer Evangelical Free Church,1580
+265,15+ min.,78,5.571428571428571,Redeemer Evangelical Free Church,1580
+266,0-5 min.,0,0,Redeemer Evangelical Free Church,1359
+266,5-10 min.,259,28.492849284928496,Redeemer Evangelical Free Church,1359
+266,10-15 min.,393,43.23432343234324,Redeemer Evangelical Free Church,1359
+266,15+ min.,257,28.272827282728276,Redeemer Evangelical Free Church,1359
+267,0-5 min.,70,5.843071786310518,Wedgewood Park International School,1389
+267,5-10 min.,497,41.48580968280468,Wedgewood Park International School,1389
+267,10-15 min.,406,33.889816360601,Wedgewood Park International School,1389
+267,15+ min.,225,18.781302170283805,Wedgewood Park International School,1389
+268,0-5 min.,0,0,Whitman School,672
+268,5-10 min.,1,0.16474464579901155,Whitman School,672
+268,10-15 min.,182,29.983525535420096,Whitman School,672
+268,15+ min.,424,69.8517298187809,Whitman School,672
+269,0-5 min.,130,19.43198804185351,Oklahoma Ave Lutheran Church,836
+269,5-10 min.,299,44.69357249626308,Oklahoma Ave Lutheran Church,836
+269,10-15 min.,240,35.874439461883405,Oklahoma Ave Lutheran Church,836
+269,15+ min.,0,0,Oklahoma Ave Lutheran Church,836
+270,0-5 min.,108,9.617097061442564,Audubon School,1395
+270,5-10 min.,403,35.8860195903829,Audubon School,1395
+270,10-15 min.,305,27.15939447907391,Audubon School,1395
+270,15+ min.,307,27.337488869100625,Audubon School,1395
+271,0-5 min.,0,0,Morgandale School,819
+271,5-10 min.,201,26.48221343873518,Morgandale School,819
+271,10-15 min.,413,54.413702239789195,Morgandale School,819
+271,15+ min.,145,19.104084321475625,Morgandale School,819
+272,0-5 min.,0,0,Pulaski High School,1005
+272,5-10 min.,40,7.233273056057866,Pulaski High School,1005
+272,10-15 min.,380,68.71609403254972,Pulaski High School,1005
+272,15+ min.,133,24.050632911392405,Pulaski High School,1005
+273,0-5 min.,0,0,Pulaski Indoor Swimming Pool,395
+273,5-10 min.,361,88.91625615763546,Pulaski Indoor Swimming Pool,395
+273,10-15 min.,45,11.083743842364532,Pulaski Indoor Swimming Pool,395
+273,15+ min.,0,0,Pulaski Indoor Swimming Pool,395
+274,0-5 min.,8,2.1164021164021163,Holt Playground Fieldhouse,379
+274,5-10 min.,365,96.56084656084656,Holt Playground Fieldhouse,379
+274,10-15 min.,5,1.3227513227513228,Holt Playground Fieldhouse,379
+274,15+ min.,0,0,Holt Playground Fieldhouse,379
+275,0-5 min.,222,54.278728606356964,Holt Playground Fieldhouse,522
+275,5-10 min.,187,45.72127139364303,Holt Playground Fieldhouse,522
+275,10-15 min.,0,0,Holt Playground Fieldhouse,522
+275,15+ min.,0,0,Holt Playground Fieldhouse,522
+276,0-5 min.,294,25.21440823327616,Morgandale School,1498
+276,5-10 min.,637,54.63121783876501,Morgandale School,1498
+276,10-15 min.,159,13.636363636363635,Morgandale School,1498
+276,15+ min.,76,6.518010291595197,Morgandale School,1498
+277,0-5 min.,159,22.11404728789986,Ohio Playground Fieldhouse,716
+277,5-10 min.,525,73.01808066759388,Ohio Playground Fieldhouse,716
+277,10-15 min.,35,4.867872044506258,Ohio Playground Fieldhouse,716
+277,15+ min.,0,0,Ohio Playground Fieldhouse,716
+278,0-5 min.,206,32.38993710691824,Clement J. Zablocki School,563
+278,5-10 min.,423,66.50943396226415,Clement J. Zablocki School,563
+278,10-15 min.,7,1.10062893081761,Clement J. Zablocki School,563
+278,15+ min.,0,0,Clement J. Zablocki School,563
+279,0-5 min.,169,25.26158445440957,Clement J. Zablocki School,605
+279,5-10 min.,491,73.39312406576981,Clement J. Zablocki School,605
+279,10-15 min.,9,1.345291479820628,Clement J. Zablocki School,605
+279,15+ min.,0,0,Clement J. Zablocki School,605
+280,0-5 min.,195,40.20618556701031,Ohio Playground Fieldhouse,582
+280,5-10 min.,270,55.670103092783506,Ohio Playground Fieldhouse,582
+280,10-15 min.,19,3.917525773195876,Ohio Playground Fieldhouse,582
+280,15+ min.,1,0.2061855670103093,Ohio Playground Fieldhouse,582
+281,0-5 min.,184,29.967426710097723,Saveland Park Pavilion,864
+281,5-10 min.,242,39.413680781758956,Saveland Park Pavilion,864
+281,10-15 min.,188,30.618892508143325,Saveland Park Pavilion,864
+281,15+ min.,0,0,Saveland Park Pavilion,864
+282,0-5 min.,21,4.487179487179487,Tippecanoe Library,689
+282,5-10 min.,212,45.2991452991453,Tippecanoe Library,689
+282,10-15 min.,204,43.58974358974359,Tippecanoe Library,689
+282,15+ min.,31,6.623931623931624,Tippecanoe Library,689
+283,0-5 min.,0,0,Parkside School of the Arts,136
+283,5-10 min.,0,0,Parkside School of the Arts,136
+283,10-15 min.,0,0,Parkside School of the Arts,136
+283,15+ min.,116,100,Parkside School of the Arts,136
+284,0-5 min.,81,11.505681818181818,Clement Avenue School,990
+284,5-10 min.,443,62.92613636363637,Clement Avenue School,990
+284,10-15 min.,180,25.568181818181817,Clement Avenue School,990
+284,15+ min.,0,0,Clement Avenue School,990
+285,0-5 min.,0,0,Humboldt Park Pavilion,942
+285,5-10 min.,279,42.98921417565486,Humboldt Park Pavilion,942
+285,10-15 min.,298,45.91679506933744,Humboldt Park Pavilion,942
+285,15+ min.,72,11.093990755007704,Humboldt Park Pavilion,942
+286,0-5 min.,205,38.82575757575758,Unity's Fellowship Hall,783
+286,5-10 min.,293,55.49242424242424,Unity's Fellowship Hall,783
+286,10-15 min.,30,5.681818181818182,Unity's Fellowship Hall,783
+286,15+ min.,0,0,Unity's Fellowship Hall,783
+287,0-5 min.,185,25.517241379310345,Fernwood Montessori School,997
+287,5-10 min.,494,68.13793103448276,Fernwood Montessori School,997
+287,10-15 min.,22,3.0344827586206895,Fernwood Montessori School,997
+287,15+ min.,24,3.310344827586207,Fernwood Montessori School,997
+288,0-5 min.,87,10.163551401869158,Fernwood Montessori School,1242
+288,5-10 min.,605,70.67757009345794,Fernwood Montessori School,1242
+288,10-15 min.,145,16.9392523364486,Fernwood Montessori School,1242
+288,15+ min.,19,2.219626168224299,Fernwood Montessori School,1242
+289,0-5 min.,22,2.3681377825618943,Clement Avenue School,1240
+289,5-10 min.,489,52.63724434876211,Clement Avenue School,1240
+289,10-15 min.,381,41.01184068891281,Clement Avenue School,1240
+289,15+ min.,37,3.982777179763186,Clement Avenue School,1240
+290,0-5 min.,0,0,Clement Avenue School,851
+290,5-10 min.,2,0.32310177705977383,Clement Avenue School,851
+290,10-15 min.,156,25.20193861066236,Clement Avenue School,851
+290,15+ min.,461,74.47495961227787,Clement Avenue School,851
+291,0-5 min.,23,4.414587332053743,Burdick School,846
+291,5-10 min.,335,64.29942418426103,Burdick School,846
+291,10-15 min.,108,20.72936660268714,Burdick School,846
+291,15+ min.,55,10.556621880998081,Burdick School,846
+292,0-5 min.,0,0,Water Tower,800
+292,5-10 min.,0,0,Water Tower,800
+292,10-15 min.,96,13.578500707213578,Water Tower,800
+292,15+ min.,611,86.42149929278642,Water Tower,800
+293,0-5 min.,48,6.837606837606838,Water Tower,1222
+293,5-10 min.,100,14.245014245014245,Water Tower,1222
+293,10-15 min.,298,42.45014245014245,Water Tower,1222
+293,15+ min.,256,36.46723646723647,Water Tower,1222
+294,0-5 min.,246,30.52109181141439,Wilson Commons - Chopin Senior Living Wilson Commons - Chopin Senior Living,788
+294,5-10 min.,79,9.801488833746898,Wilson Commons - Chopin Senior Living Wilson Commons - Chopin Senior Living,788
+294,10-15 min.,111,13.771712158808933,Wilson Commons - Chopin Senior Living Wilson Commons - Chopin Senior Living,788
+294,15+ min.,370,45.90570719602978,Wilson Commons - Chopin Senior Living Wilson Commons - Chopin Senior Living,788
+295,0-5 min.,41,2.7188328912466844,Lowell School,1275
+295,5-10 min.,234,15.517241379310345,Lowell School,1275
+295,10-15 min.,691,45.822281167108756,Lowell School,1275
+295,15+ min.,542,35.94164456233422,Lowell School,1275
+296,0-5 min.,30,3.558718861209965,Ronald W. Reagan High School,1204
+296,5-10 min.,348,41.281138790035584,Ronald W. Reagan High School,1204
+296,10-15 min.,385,45.67022538552787,Ronald W. Reagan High School,1204
+296,15+ min.,80,9.489916963226571,Ronald W. Reagan High School,1204
+297,0-5 min.,0,0,Ronald W. Reagan High School,444
+297,5-10 min.,0,0,Ronald W. Reagan High School,444
+297,10-15 min.,144,30.062630480167012,Ronald W. Reagan High School,444
+297,15+ min.,335,69.93736951983298,Ronald W. Reagan High School,444
+298,0-5 min.,0,0,Cooper School,724
+298,5-10 min.,0,0,Cooper School,724
+298,10-15 min.,0,0,Cooper School,724
+298,15+ min.,550,100,Cooper School,724
+299,0-5 min.,90,15.65217391304348,Cooper School,971
+299,5-10 min.,359,62.43478260869565,Cooper School,971
+299,10-15 min.,124,21.565217391304348,Cooper School,971
+299,15+ min.,2,0.34782608695652173,Cooper School,971
+300,0-5 min.,103,11.62528216704289,Garland School,1050
+300,5-10 min.,465,52.48306997742663,Garland School,1050
+300,10-15 min.,260,29.345372460496616,Garland School,1050
+300,15+ min.,58,6.5462753950338595,Garland School,1050
+301,0-5 min.,0,0,Garland School,768
+301,5-10 min.,20,4.123711340206185,Garland School,768
+301,10-15 min.,188,38.76288659793815,Garland School,768
+301,15+ min.,277,57.113402061855666,Garland School,768
+302,0-5 min.,84,11.634349030470915,Victory School,939
+302,5-10 min.,282,39.05817174515235,Victory School,939
+302,10-15 min.,356,49.307479224376735,Victory School,939
+302,15+ min.,0,0,Victory School,939
+303,0-5 min.,28,5.109489051094891,Holler Park Pavilion,809
+303,5-10 min.,123,22.445255474452555,Holler Park Pavilion,809
+303,10-15 min.,137,25,Holler Park Pavilion,809
+303,15+ min.,260,47.44525547445255,Holler Park Pavilion,809
+304,0-5 min.,68,7.226354941551541,Burdick School,1415
+304,5-10 min.,476,50.58448459086079,Burdick School,1415
+304,10-15 min.,311,33.04994686503719,Burdick School,1415
+304,15+ min.,86,9.139213602550477,Burdick School,1415
+305,0-5 min.,0,0,Clarke Square Park Pavilion,306
+305,5-10 min.,258,57.58928571428571,Clarke Square Park Pavilion,306
+305,10-15 min.,190,42.410714285714285,Clarke Square Park Pavilion,306
+305,15+ min.,0,0,Clarke Square Park Pavilion,306
+306,0-5 min.,251,63.22418136020151,Clarke Square Park Pavilion,277
+306,5-10 min.,146,36.775818639798494,Clarke Square Park Pavilion,277
+306,10-15 min.,0,0,Clarke Square Park Pavilion,277
+306,15+ min.,0,0,Clarke Square Park Pavilion,277
+307,0-5 min.,3,0.9708737864077669,Pulaski Indoor Swimming Pool,249
+307,5-10 min.,196,63.43042071197411,Pulaski Indoor Swimming Pool,249
+307,10-15 min.,110,35.59870550161812,Pulaski Indoor Swimming Pool,249
+307,15+ min.,0,0,Pulaski Indoor Swimming Pool,249
+308,0-5 min.,0,0,Pulaski Indoor Swimming Pool,311
+308,5-10 min.,99,25.12690355329949,Pulaski Indoor Swimming Pool,311
+308,10-15 min.,210,53.299492385786806,Pulaski Indoor Swimming Pool,311
+308,15+ min.,85,21.573604060913706,Pulaski Indoor Swimming Pool,311
+309,0-5 min.,386,36.4494806421152,Firehouse Station 31,694
+309,5-10 min.,603,56.94050991501416,Firehouse Station 31,694
+309,10-15 min.,70,6.610009442870633,Firehouse Station 31,694
+309,15+ min.,0,0,Firehouse Station 31,694
+310,0-5 min.,0,0,Parkside School of the Arts,435
+310,5-10 min.,23,6.267029972752043,Parkside School of the Arts,435
+310,10-15 min.,241,65.66757493188011,Parkside School of the Arts,435
+310,15+ min.,103,28.065395095367844,Parkside School of the Arts,435
+311,0-5 min.,71,10.319767441860465,Zablocki Library,826
+311,5-10 min.,315,45.78488372093023,Zablocki Library,826
+311,10-15 min.,293,42.587209302325576,Zablocki Library,826
+311,15+ min.,9,1.308139534883721,Zablocki Library,826
+312,0-5 min.,0,0,Curtin School,419
+312,5-10 min.,0,0,Curtin School,419
+312,10-15 min.,176,25.323741007194243,Curtin School,419
+312,15+ min.,519,74.67625899280576,Curtin School,419
+313,0-5 min.,99,19.839679358717436,IDEAL School,601
+313,5-10 min.,159,31.863727454909817,IDEAL School,601
+313,10-15 min.,178,35.671342685370746,IDEAL School,601
+313,15+ min.,63,12.625250501002002,IDEAL School,601
+314,0-5 min.,0,0,IDEAL School,554
+314,5-10 min.,0,0,IDEAL School,554
+314,10-15 min.,0,0,IDEAL School,554
+314,15+ min.,374,100,IDEAL School,554
+315,0-5 min.,108,8.866995073891626,Maple Tree School,1536
+315,5-10 min.,594,48.76847290640394,Maple Tree School,1536
+315,10-15 min.,164,13.464696223316913,Maple Tree School,1536
+315,15+ min.,352,28.899835796387517,Maple Tree School,1536
+318,0-5 min.,0,0,Madison High School,321
+318,5-10 min.,0,0,Madison High School,321
+318,10-15 min.,90,24.390243902439025,Madison High School,321
+318,15+ min.,279,75.60975609756098,Madison High School,321
+319,0-5 min.,0,0,Ninety - Fifth Street School,101
+319,5-10 min.,61,93.84615384615384,Ninety - Fifth Street School,101
+319,10-15 min.,4,6.153846153846154,Ninety - Fifth Street School,101
+319,15+ min.,0,0,Ninety - Fifth Street School,101
+320,0-5 min.,0,0,Ninety - Fifth Street School,101
+320,5-10 min.,64,100,Ninety - Fifth Street School,101
+320,10-15 min.,0,0,Ninety - Fifth Street School,101
+320,15+ min.,0,0,Ninety - Fifth Street School,101
+321,0-5 min.,86,29.553264604810998,Firehouse Station 22,323
+321,5-10 min.,138,47.42268041237113,Firehouse Station 22,323
+321,10-15 min.,67,23.02405498281787,Firehouse Station 22,323
+321,15+ min.,0,0,Firehouse Station 22,323
+322,0-5 min.,192,69.81818181818183,Banner Prep / Asata High School,277
+322,5-10 min.,76,27.636363636363637,Banner Prep / Asata High School,277
+322,10-15 min.,7,2.5454545454545454,Banner Prep / Asata High School,277
+322,15+ min.,0,0,Banner Prep / Asata High School,277
+323,0-5 min.,0,0,Boys & Girls Club - Mary Ryan,223
+323,5-10 min.,0,0,Boys & Girls Club - Mary Ryan,223
+323,10-15 min.,112,64.73988439306359,Boys & Girls Club - Mary Ryan,223
+323,15+ min.,61,35.26011560693642,Boys & Girls Club - Mary Ryan,223
+324,0-5 min.,0,0,Boys & Girls Club - Mary Ryan,397
+324,5-10 min.,0,0,Boys & Girls Club - Mary Ryan,397
+324,10-15 min.,64,15.686274509803921,Boys & Girls Club - Mary Ryan,397
+324,15+ min.,344,84.31372549019608,Boys & Girls Club - Mary Ryan,397
+325,0-5 min.,0,0,Washington High School,175
+325,5-10 min.,0,0,Washington High School,175
+325,10-15 min.,152,100,Washington High School,175
+325,15+ min.,0,0,Washington High School,175
+326,0-5 min.,0,0,Hi-Mount Blvd School,19
+326,5-10 min.,4,22.22222222222222,Hi-Mount Blvd School,19
+326,10-15 min.,14,77.77777777777779,Hi-Mount Blvd School,19
+326,15+ min.,0,0,Hi-Mount Blvd School,19
+328,0-5 min.,136,36.75675675675676,Milwaukee French Immersion School,426
+328,5-10 min.,176,47.56756756756757,Milwaukee French Immersion School,426
+328,10-15 min.,58,15.675675675675677,Milwaukee French Immersion School,426
+328,15+ min.,0,0,Milwaukee French Immersion School,426
+329,0-5 min.,0,0,Metropolitan Baptist Church,56
+329,5-10 min.,0,0,Metropolitan Baptist Church,56
+329,10-15 min.,65,100,Metropolitan Baptist Church,56
+329,15+ min.,0,0,Metropolitan Baptist Church,56
+330,0-5 min.,62,22.794117647058822,Milwaukee Rescue Mission,226
+330,5-10 min.,210,77.20588235294117,Milwaukee Rescue Mission,226
+330,10-15 min.,0,0,Milwaukee Rescue Mission,226
+330,15+ min.,0,0,Milwaukee Rescue Mission,226
+331,0-5 min.,162,30.623818525519848,Holton Terrace Apartments,671
+331,5-10 min.,367,69.37618147448015,Holton Terrace Apartments,671
+331,10-15 min.,0,0,Holton Terrace Apartments,671
+331,15+ min.,0,0,Holton Terrace Apartments,671
+332,0-5 min.,5,3.3783783783783785,Gordon Park Pavilion,174
+332,5-10 min.,143,96.62162162162163,Gordon Park Pavilion,174
+332,10-15 min.,0,0,Gordon Park Pavilion,174
+332,15+ min.,0,0,Gordon Park Pavilion,174
+333,0-5 min.,0,0,Cherry Court Apartments,30
+333,5-10 min.,0,0,Cherry Court Apartments,30
+333,10-15 min.,0,0,Cherry Court Apartments,30
+333,15+ min.,39,100,Cherry Court Apartments,30
+334,0-5 min.,49,23.902439024390244,James E Groppi (27th Street School),121
+334,5-10 min.,156,76.09756097560975,James E Groppi (27th Street School),121
+334,10-15 min.,0,0,James E Groppi (27th Street School),121
+334,15+ min.,0,0,James E Groppi (27th Street School),121
+335,0-5 min.,0,0,Marquette Alumni Memorial Union,257
+335,5-10 min.,239,100,Marquette Alumni Memorial Union,257
+335,10-15 min.,0,0,Marquette Alumni Memorial Union,257
+335,15+ min.,0,0,Marquette Alumni Memorial Union,257
+336,0-5 min.,0,0,Milwaukee Academy of Chinese Language,238
+336,5-10 min.,218,47.91208791208791,Milwaukee Academy of Chinese Language,238
+336,10-15 min.,237,52.087912087912095,Milwaukee Academy of Chinese Language,238
+336,15+ min.,0,0,Milwaukee Academy of Chinese Language,238
+337,0-5 min.,0,0,Wisconsin Conservatory of Lifelong Learning,0
+337,5-10 min.,0,0,Wisconsin Conservatory of Lifelong Learning,0
+337,10-15 min.,0,0,Wisconsin Conservatory of Lifelong Learning,0
+337,15+ min.,1,100,Wisconsin Conservatory of Lifelong Learning,0
+339,0-5 min.,0,0,Mitchell Court Apartments,57
+339,5-10 min.,0,0,Mitchell Court Apartments,57
+339,10-15 min.,0,0,Mitchell Court Apartments,57
+339,15+ min.,84,100,Mitchell Court Apartments,57
+342,0-5 min.,0,0,Lincoln Court Apartments,93
+342,5-10 min.,0,0,Lincoln Court Apartments,93
+342,10-15 min.,95,100,Lincoln Court Apartments,93
+342,15+ min.,0,0,Lincoln Court Apartments,93
+343,0-5 min.,0,0,The Bridge,331
+343,5-10 min.,0,0,The Bridge,331
+343,10-15 min.,77,34.52914798206278,The Bridge,331
+343,15+ min.,146,65.47085201793722,The Bridge,331
+344,0-5 min.,0,0,Oklahoma Ave Lutheran Church,378
+344,5-10 min.,244,49.49290060851927,Oklahoma Ave Lutheran Church,378
+344,10-15 min.,249,50.50709939148072,Oklahoma Ave Lutheran Church,378
+344,15+ min.,0,0,Oklahoma Ave Lutheran Church,378
+345,0-5 min.,48,10.643015521064301,Manitoba School,545
+345,5-10 min.,185,41.019955654102,Manitoba School,545
+345,10-15 min.,218,48.33702882483371,Manitoba School,545
+345,15+ min.,0,0,Manitoba School,545
+346,0-5 min.,37,20.108695652173914,Pulaski Indoor Swimming Pool,140
+346,5-10 min.,147,79.8913043478261,Pulaski Indoor Swimming Pool,140
+346,10-15 min.,0,0,Pulaski Indoor Swimming Pool,140
+346,15+ min.,0,0,Pulaski Indoor Swimming Pool,140
+347,0-5 min.,48,9.63855421686747,Parkside School of the Arts,706
+347,5-10 min.,437,87.75100401606426,Parkside School of the Arts,706
+347,10-15 min.,13,2.610441767068273,Parkside School of the Arts,706
+347,15+ min.,0,0,Parkside School of the Arts,706
+348,0-5 min.,0,0,Parkside School of the Arts,660
+348,5-10 min.,117,23.122529644268774,Parkside School of the Arts,660
+348,10-15 min.,226,44.66403162055336,Parkside School of the Arts,660
+348,15+ min.,163,32.21343873517787,Parkside School of the Arts,660
+349,0-5 min.,60,8.823529411764707,Whitman School,784
+349,5-10 min.,422,62.05882352941177,Whitman School,784
+349,10-15 min.,192,28.235294117647058,Whitman School,784
+349,15+ min.,6,0.8823529411764706,Whitman School,784
+350,0-5 min.,0,0,Zablocki Library,5
+350,5-10 min.,0,0,Zablocki Library,5
+350,10-15 min.,14,100,Zablocki Library,5
+350,15+ min.,0,0,Zablocki Library,5
+352,0-5 min.,0,0,Wilson Commons - Chopin Senior Living Wilson Commons - Chopin Senior Living,0
+352,5-10 min.,1,100,Wilson Commons - Chopin Senior Living Wilson Commons - Chopin Senior Living,0
+352,10-15 min.,0,0,Wilson Commons - Chopin Senior Living Wilson Commons - Chopin Senior Living,0
+352,15+ min.,0,0,Wilson Commons - Chopin Senior Living Wilson Commons - Chopin Senior Living,0
+355,0-5 min.,0,0,Parkside School of the Arts,65
+355,5-10 min.,0,0,Parkside School of the Arts,65
+355,10-15 min.,0,0,Parkside School of the Arts,65
+355,15+ min.,42,100,Parkside School of the Arts,65
+356,0-5 min.,0,0,Tippecanoe Library,143
+356,5-10 min.,0,0,Tippecanoe Library,143
+356,10-15 min.,45,39.130434782608695,Tippecanoe Library,143
+356,15+ min.,70,60.86956521739131,Tippecanoe Library,143
+327,NA,NA,NA,Hi-Mount Blvd School,0
+353,NA,NA,NA,Firehouse Station 6,0
+354,NA,NA,NA,Cass Street School,0
+338,NA,NA,NA,Luther Burbank School,0
+340,NA,NA,NA,Milwaukee Public Market,0
+341,NA,NA,NA,Milwaukee Public Market,0
+351,NA,NA,NA,Curtin School,0
+317,NA,NA,NA,River Trail School,0
+316,NA,NA,NA,Firehouse Station 38,0

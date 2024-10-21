@@ -56,8 +56,3 @@ map(.x = unique(all.wards$polling_place_no),
                 width = 7, height = 7, units = "in"),
     .progress = TRUE)
 
-map(.x = unique(all.wards$polling_place_no),
-    .f = ~map_polling_place(.x, distance = "walk_time5_") |>
-      tmap_save(filename = paste0("graphics/indiv-polling-place/walk_time5_", .x, ".png"),
-                width = 7, height = 7, units = "in"),
-    .progress = TRUE)
